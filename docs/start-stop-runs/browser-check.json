@@ -1,0 +1,36 @@
+{
+  "checks": [
+    {
+      "label": "Running sound exposes an enabled Stop Sound button",
+      "pass": true
+    },
+    {
+      "label": "Stop closes audio and clears retained notes",
+      "pass": true
+    },
+    {
+      "label": "Dragging while stopped does not restart audio",
+      "pass": true
+    },
+    {
+      "label": "Restart preserves instrument settings",
+      "pass": true
+    },
+    {
+      "label": "Restart plays again",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  }
+}

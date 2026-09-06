@@ -1,0 +1,44 @@
+{
+  "checks": [
+    {
+      "label": "Help opens with an accessible visual keyboard map",
+      "pass": true
+    },
+    {
+      "label": "Map includes all 20 playing keycaps",
+      "pass": true
+    },
+    {
+      "label": "Complete map fits above Close at 1280 × 800",
+      "pass": true
+    },
+    {
+      "label": "Reference keys do not trigger performance while Help is open",
+      "pass": true
+    },
+    {
+      "label": "Examples remain available",
+      "pass": true
+    },
+    {
+      "label": "Complete map fits at 1600 × 1000",
+      "pass": true
+    },
+    {
+      "label": "Close returns to the instrument",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  }
+}

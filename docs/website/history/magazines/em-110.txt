@@ -1,0 +1,284 @@
+Advertiser Index 
+ADVERTISER 
+READER SERVICE * 
+PAGE 
+ADVERTISER 
+READER SERVICE # 
+PAGE 
+Akai/IMC 
+501 
+64 
+Key Electronics 
+543 
+44 
+Alesis (HR-16) 
+502 
+116 
+KorgUSA(Ml) 
+544 
+2 
+Alesis (Microverb II) 
+503 
+24 
+Korg USA (M3R) 
+545 
+3 
+Alesis (MMT-8) 
+504 
+53 
+Leigh’s Computers 
+546 
+79 
+American Pro Audio 
+505 
+14 
+Leister Productions 
+547 
+84 
+Anatek 
+506 
+4 
+Lexicon, Inc. 
+548 
+48-49 
+Sam Ash Music 
+— 
+105 
+Lone Wolf 
+549 
+50 
+Audio Gallery 
+507 
+78 
+LT Sound 
+— 
+88 
+T.F. Barrett Co. 
+508 
+84 
+Manny's Music 
+550 
+81 
+Brother International Corporation 
+509 
+6 
+Mark of the Unicorn 
+551 
+32 
+Cambridge Soundworks 
+510 
+43 
+Marquis Music 
+552 
+56 
+Cannon Research Corporation 
+51 1 
+77 
+McGraw-Hill/NRI 
+— 
+75 
+Celestion 
+512 
+71 
+Micro Music 
+553 
+104 
+Codehead Software 
+513 
+60 
+Micronix 
+554 
+107 
+ComputerMart 
+514 
+38 
+Music Quest 
+555 
+101 
+Computers & Music 
+515 
+93 
+MusiCan International 
+556 
+34 
+J.L. Cooper Electronics 
+516 
+97 
+Musicode 
+557 
+79 
+The DAT Store 
+517 
+19 
+Opcode Systems 
+558 
+115 
+Digidesign 
+518 
+45 
+Otari Corporation 
+559 
+21 
+Digital Arts & Technologies 
+519 
+65 
+Passport Designs, Inc. 
+560 
+29 
+DigiTech 
+520 
+10 
+Personal Composer 
+561 
+95 
+Dissidents 
+521 
+93 
+Prosonus 
+562 
+73, 99 
+Dr. T’s Music Software (HitMan) 
+522 
+15 
+Quik Lok (Music Industries Corp.) 
+563 
+52 
+Dr. T’s Music Software (KCS) 
+523 
+40 
+Rhythm City Music 
+564 
+91 
+Dr. T’s Music Software (Tiger) 
+524 
+74 
+RolandCorp US 
+565 
+54-55 
+Eltekon Productions 
+525 
+57 
+Sansui 
+566 
+8-9 
+EM Bookshelf 
+— 90,91,98,103 
+Scorpion Systems 
+567 
+35 
+Ensoniq 
+526 
+22-23 
+Sony Professional Audio 
+568 
+82-83 
+Essential Hardware 
+527 
+99 
+Soundware Corporation 
+569 
+39 
+Europadisk, Ltd. 
+528 
+100 
+Standtastic 
+570 
+20 
+Eye & 1 Productions 
+529 
+108 
+Stealth 
+571 
+85 
+First Light Publishing 
+530 
+89 
+Studio Electronics 
+572 
+108 
+Fostex Corporation of America 
+531 
+30-31 
+Sweetwater Sound 
+573 
+105 
+Four Designs Company 
+532 
+100 
+TASCAM (MM-I) 
+574 
+26-27 
+Gateway Software 
+533 
+89 
+TASCAM (TSR-8) 
+575 
+66-67 
+Gotcha Covered 
+534 
+104 
+Teach Services 
+576 
+60 
+Grandma’s Music 
+535 
+88 
+Thoroughbred Music 
+577 
+107 
+Guitar Shack 
+536 
+101 
+Tran Tracks 
+578 
+42 
+Hughes & Kettner 
+537 
+25 
+Triton 
+579 
+73 
+IEMUG (Midwest MIDI) 
+538 
+100 
+Valhala Music 
+580 
+58-59, 94 
+Industrial Strength Industries 
+539 
+87 
+The Woodwind & The Brasswind 
+581 
+65 
+Kawai America Corporation 
+540 
+16-17 
+Yamaha Digital Musical Instruments 
+582 
+12-13 
+KEF Communications 
+541 
+14 
+Yamaha Professional Audio Division 
+583 
+61 
+The Keyboard Shop 
+542 
+100 
+VOTE FOR YOUR FAVORITE ARTICLE! 
+We want to give you more of the topics and types of articles you find most useful and enjoyable. Now you can use EM’s 
+reader service cards to indicate which ONE article in this issue was your favorite. Please check the ONE box under 
+question #5 on the attached reader service card that corresponds with the title of the article you like the most: 
+a. “In the Public Eye: Free Atari Software,” p.28 
+b. “Programmable Crunch: A Survey of Guitar Multi-Effects Processors," p.36 
+C. 
+“Automated FX Systems for Guitarists,” p.46 
+d. “How Copyright Law Changes Affect You,” p.62 
+e. “MIDI Programming in C, Part 2: MIDI Data Debugger,” p. 72 
+f. 
+“The J.L. Cooper PPS-1 Hot Rod Mod,” p.76 
+g. “E-Mu Proteus,” p.92 
+SEE QUESTION #5 ON THE READER SERVICE CARD! 
+106 
+Electronic Musician 
+October 1989 

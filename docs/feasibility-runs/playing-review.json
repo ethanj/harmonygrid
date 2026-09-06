@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-05",
+  "method": "Foreground Chrome through CUA. Real pointer/button/keyboard adapters; read-only runtime diagnostics.",
+  "browser": "Chrome/152.0.0.0, macOS",
+  "viewport": {
+    "width": 1455,
+    "height": 974,
+    "scale": 2
+  },
+  "beforeGestureFix": {
+    "audioSeconds": 340.432,
+    "sampleRate": 48000,
+    "state": "running",
+    "audioFault": null,
+    "automatedDrags": 300,
+    "targetedChecksPassed": 17,
+    "failure": "With Smooth Clavier enabled and Auto Button on, the final main-grid pointer release cleared the playing chord. Expected lead 95 and nonempty chord; observed lead 95, played [], sounding [].",
+    "failureAtAudioSeconds": 218.448,
+    "duplicateBlocks": 2,
+    "nonFiniteSamples": 0,
+    "queueOverflows": 0,
+    "renderOverflows": 0,
+    "voiceSteals": 0,
+    "traceRecords": 13447,
+    "traceDropped": 0,
+    "eventCounts": {
+      "draw": 2593,
+      "receipt": 3499,
+      "commit": 3177,
+      "health": 680,
+      "input": 3498
+    },
+    "drawMs": {
+      "p95": 0.3999999761581421,
+      "p99": 0.40000003576278687,
+      "max": 1250.800000011921,
+      "firstDraw": 1250.800000011921,
+      "afterAudioStartMax": 11.699999988079071
+    }
+  },
+  "afterGestureFix": {
+    "checksPassed": [
+      "Auto grid release continues with Smooth Clavier on: G3 chord 55,59,62",
+      "Smooth Clavier press plays",
+      "Smooth Clavier release outside bounds silences",
+      "Auto-off grid release silences",
+      "Quantized Auto grid release continues: G3 chord 55,59,62",
+      "150-drag original reproduction now retains final played pitches 99,102,109,116",
+      "Reset clears all retained notes and live latches",
+      "Playing resumes after Reset: C4 chord 60,64,67"
+    ],
+    "unitTestsPassed": 54,
+    "buildIncludingTypecheck": "passed",
+    "finalHealth": {
+      "audioSeconds": 140.224,
+      "state": "running",
+      "fault": null,
+      "peak": 0.2110699428355828,
+      "nonFiniteSamples": 0,
+      "queueOverflows": 0,
+      "renderOverflows": 0,
+      "voiceSteals": 0,
+      "maxDrawMs": 200.5,
+      "finalAllNotesOff": "passed"
+    }
+  },
+  "limitations": [
+    "Physical sound/display timing not measured",
+    "Human musical feel pending",
+    "External MIDI unverified",
+    "Full raw trace download was not captured",
+    "Not a 20-minute scored workload"
+  ]
+}

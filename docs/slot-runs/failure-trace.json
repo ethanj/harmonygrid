@@ -1,0 +1,1292 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 6.661333333333333,
+      "outputTimestamp": {
+        "contextTime": 6.642615999999999,
+        "performanceTime": 7308.199999988079
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 33,
+      "maxDrawMs": 47.80000001192093,
+      "meanDrawMs": 1.7212121269919656,
+      "renderOverflows": 0,
+      "palette": "ready",
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 312832
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "dropped": 0,
+  "retention": "most recent events",
+  "capacity": 20000,
+  "events": [
+    {
+      "kind": "focus",
+      "at": 384.9000000357628
+    },
+    {
+      "kind": "focus",
+      "at": 385
+    },
+    {
+      "kind": "draw",
+      "duration": 47.80000001192093,
+      "at": 1788681889160.9001,
+      "drawCount": 1,
+      "totalDuration": 47.80000001192093,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "receipt",
+      "sample": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 3,
+      "sample": 0,
+      "received": 587.6999999880791,
+      "target": 590.3666666547457,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 0
+    },
+    {
+      "kind": "draw",
+      "eventId": 3,
+      "sample": 0,
+      "duration": 0.19999998807907104,
+      "at": 1788681889329.4001,
+      "drawCount": 2,
+      "totalDuration": 48,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 4,
+      "sample": 12000,
+      "received": 898,
+      "target": 915.6456666905085,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 4,
+      "sample": 12000,
+      "duration": 0.19999998807907104,
+      "at": 1788681889646.1,
+      "drawCount": 3,
+      "totalDuration": 48.19999998807907,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 5,
+      "sample": 24000,
+      "received": 1151.800000011921,
+      "target": 1165.6790000119208,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 24064
+    },
+    {
+      "kind": "draw",
+      "eventId": 5,
+      "sample": 24000,
+      "duration": 0.30000001192092896,
+      "at": 1788681889896.6,
+      "drawCount": 4,
+      "totalDuration": 48.5,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 1,
+      "sent": 1208.1000000238419,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -12,
+            4,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 1,
+      "sent": 1208.1000000238419,
+      "sample": 26880
+    },
+    {
+      "kind": "commit",
+      "eventId": 6,
+      "sample": 26880,
+      "received": 1220.300000011921,
+      "target": 1225.7416666547458,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 6,
+      "sample": 26880,
+      "duration": 0.30000001192092896,
+      "at": 1788681889963.6,
+      "drawCount": 5,
+      "totalDuration": 48.80000001192093,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 2,
+      "sent": 1261.4000000357628,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -12,
+            4,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 2,
+      "sent": 1261.4000000357628,
+      "sample": 29440
+    },
+    {
+      "kind": "commit",
+      "eventId": 7,
+      "sample": 29440,
+      "received": 1265.800000011921,
+      "target": 1279.073999988079,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 7,
+      "sample": 29440,
+      "duration": 0.19999998807907104,
+      "at": 1788681890014.5,
+      "drawCount": 6,
+      "totalDuration": 49,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 8,
+      "sample": 36000,
+      "received": 1399.1000000238419,
+      "target": 1415.7183333333332,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 8,
+      "sample": 36000,
+      "duration": 0.19999998807907104,
+      "at": 1788681890147.4001,
+      "drawCount": 7,
+      "totalDuration": 49.19999998807907,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 3,
+      "sent": 1554.5,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -7,
+            5,
+            17
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 3,
+      "sent": 1554.5,
+      "sample": 43520
+    },
+    {
+      "kind": "commit",
+      "eventId": 9,
+      "sample": 43520,
+      "received": 1570.199999988079,
+      "target": 1572.318333357175,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 9,
+      "sample": 43520,
+      "duration": 0.20000004768371582,
+      "at": 1788681890313.7002,
+      "drawCount": 8,
+      "totalDuration": 49.40000003576279,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 4,
+      "sent": 1610.199999988079,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            0,
+            3,
+            4,
+            7,
+            10,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 5,
+      "sent": 1611.1000000238419,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -7,
+            5,
+            17
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 6,
+      "sent": 1612.5,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 7,
+      "sent": 1613.9000000357628,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 8,
+      "sent": 1615.300000011921,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "mode": [
+            0,
+            2,
+            4,
+            7,
+            9
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 9,
+      "sent": 1616,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 4,
+      "sent": 1610.199999988079,
+      "sample": 46080
+    },
+    {
+      "kind": "receipt",
+      "id": 5,
+      "sent": 1611.1000000238419,
+      "sample": 46080
+    },
+    {
+      "kind": "commit",
+      "eventId": 10,
+      "sample": 46080,
+      "received": 1619.300000011921,
+      "target": 1625.7406666547456,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 11,
+      "sample": 46080,
+      "received": 1619.300000011921,
+      "target": 1625.7406666547456,
+      "actions": []
+    },
+    {
+      "kind": "receipt",
+      "id": 6,
+      "sent": 1612.5,
+      "sample": 46336
+    },
+    {
+      "kind": "receipt",
+      "id": 7,
+      "sent": 1613.9000000357628,
+      "sample": 46336
+    },
+    {
+      "kind": "receipt",
+      "id": 8,
+      "sent": 1615.300000011921,
+      "sample": 46336
+    },
+    {
+      "kind": "receipt",
+      "id": 9,
+      "sent": 1616,
+      "sample": 46336
+    },
+    {
+      "kind": "commit",
+      "eventId": 12,
+      "sample": 46336,
+      "received": 1619.300000011921,
+      "target": 1631.073999988079,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 13,
+      "sample": 46336,
+      "received": 1619.300000011921,
+      "target": 1631.073999988079,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 14,
+      "sample": 46336,
+      "received": 1619.300000011921,
+      "target": 1631.073999988079,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 15,
+      "sample": 46336,
+      "received": 1619.300000011921,
+      "target": 1631.073999988079,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 15,
+      "sample": 46336,
+      "duration": 0.19999998807907104,
+      "at": 1788681890364.3,
+      "drawCount": 9,
+      "totalDuration": 49.60000002384186,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 16,
+      "sample": 48000,
+      "received": 1649.800000011921,
+      "target": 1665.6516666905086,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 48128
+    },
+    {
+      "kind": "draw",
+      "eventId": 16,
+      "sample": 48000,
+      "duration": 0.19999998807907104,
+      "at": 1788681890397.1,
+      "drawCount": 10,
+      "totalDuration": 49.80000001192093,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 10,
+      "sent": 1719.800000011921,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "mode": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 10,
+      "sent": 1719.800000011921,
+      "sample": 51456
+    },
+    {
+      "kind": "input",
+      "id": 11,
+      "sent": 1720.4000000357628,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 11,
+      "sent": 1720.4000000357628,
+      "sample": 51456
+    },
+    {
+      "kind": "input",
+      "id": 12,
+      "sent": 1720.9000000357628,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -7,
+            5,
+            17
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 12,
+      "sent": 1720.9000000357628,
+      "sample": 51456
+    },
+    {
+      "kind": "input",
+      "id": 13,
+      "sent": 1721.699999988079,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            0,
+            4,
+            7,
+            10,
+            14,
+            17,
+            21
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 13,
+      "sent": 1721.699999988079,
+      "sample": 51456
+    },
+    {
+      "kind": "input",
+      "id": 14,
+      "sent": 1722.199999988079,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -7,
+            5,
+            17
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 14,
+      "sent": 1722.199999988079,
+      "sample": 51456
+    },
+    {
+      "kind": "input",
+      "id": 15,
+      "sent": 1723.9000000357628,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            0,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 16,
+      "sent": 1724.699999988079,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            -7,
+            5,
+            17
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 15,
+      "sent": 1723.9000000357628,
+      "sample": 51456
+    },
+    {
+      "kind": "commit",
+      "eventId": 17,
+      "sample": 51456,
+      "received": 1737.1000000238419,
+      "target": 1737.7063333333335,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 18,
+      "sample": 51456,
+      "received": 1737.1000000238419,
+      "target": 1737.7063333333335,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 19,
+      "sample": 51456,
+      "received": 1737.199999988079,
+      "target": 1737.7063333333335,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 20,
+      "sample": 51456,
+      "received": 1737.199999988079,
+      "target": 1737.7063333333335,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 21,
+      "sample": 51456,
+      "received": 1737.199999988079,
+      "target": 1737.7063333333335,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 22,
+      "sample": 51456,
+      "received": 1737.199999988079,
+      "target": 1737.7063333333335,
+      "actions": []
+    },
+    {
+      "kind": "receipt",
+      "id": 16,
+      "sent": 1724.699999988079,
+      "sample": 51712
+    },
+    {
+      "kind": "commit",
+      "eventId": 23,
+      "sample": 51712,
+      "received": 1737.199999988079,
+      "target": 1743.0396666666666,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 23,
+      "sample": 51712,
+      "duration": 0.10000002384185791,
+      "at": 1788681890479.5,
+      "drawCount": 11,
+      "totalDuration": 49.90000003576279,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 24,
+      "sample": 60000,
+      "received": 1900.4000000357628,
+      "target": 1915.684000011921,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 24,
+      "sample": 60000,
+      "duration": 0.20000004768371582,
+      "at": 1788681890647.2002,
+      "drawCount": 12,
+      "totalDuration": 50.1000000834465,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 25,
+      "sample": 72000,
+      "received": 2151.100000023842,
+      "target": 2165.7203333333337,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 72192
+    },
+    {
+      "kind": "draw",
+      "eventId": 25,
+      "sample": 72000,
+      "duration": 0.19999998807907104,
+      "at": 1788681890895.9001,
+      "drawCount": 13,
+      "totalDuration": 50.300000071525574,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 26,
+      "sample": 84000,
+      "received": 2401.800000011921,
+      "target": 2415.649666690508,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 26,
+      "sample": 84000,
+      "duration": 0.30000001192092896,
+      "at": 1788681891146.4001,
+      "drawCount": 14,
+      "totalDuration": 50.6000000834465,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 27,
+      "sample": 96000,
+      "received": 2652.400000035763,
+      "target": 2665.6850000119207,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 96256
+    },
+    {
+      "kind": "draw",
+      "eventId": 27,
+      "sample": 96000,
+      "duration": 0.10000002384185791,
+      "at": 1788681891397.4001,
+      "drawCount": 15,
+      "totalDuration": 50.70000010728836,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 28,
+      "sample": 108000,
+      "received": 2897.800000011921,
+      "target": 2915.6486666905084,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 28,
+      "sample": 108000,
+      "duration": 0.19999998807907104,
+      "at": 1788681891646.8,
+      "drawCount": 16,
+      "totalDuration": 50.90000009536743,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 29,
+      "sample": 120000,
+      "received": 3148.400000035763,
+      "target": 3165.681000011921,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 120320
+    },
+    {
+      "kind": "draw",
+      "eventId": 29,
+      "sample": 120000,
+      "duration": 0.19999998807907104,
+      "at": 1788681891895.9001,
+      "drawCount": 17,
+      "totalDuration": 51.1000000834465,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 30,
+      "sample": 132000,
+      "received": 3399.100000023842,
+      "target": 3415.7153333333335,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 30,
+      "sample": 132000,
+      "duration": 0.19999998807907104,
+      "at": 1788681892147.6,
+      "drawCount": 18,
+      "totalDuration": 51.300000071525574,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 31,
+      "sample": 144000,
+      "received": 3649.699999988079,
+      "target": 3665.749666654746,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 144384
+    },
+    {
+      "kind": "draw",
+      "eventId": 31,
+      "sample": 144000,
+      "duration": 0.19999998807907104,
+      "at": 1788681892397.3,
+      "drawCount": 19,
+      "totalDuration": 51.500000059604645,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 32,
+      "sample": 156000,
+      "received": 3900.400000035763,
+      "target": 3915.686000011921,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 32,
+      "sample": 156000,
+      "duration": 0.30000001192092896,
+      "at": 1788681892647.6,
+      "drawCount": 20,
+      "totalDuration": 51.800000071525574,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 33,
+      "sample": 168000,
+      "received": 4151,
+      "target": 4165.720333333333,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 168448
+    },
+    {
+      "kind": "draw",
+      "eventId": 33,
+      "sample": 168000,
+      "duration": 0.5,
+      "at": 1788681892896.7002,
+      "drawCount": 21,
+      "totalDuration": 52.300000071525574,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 34,
+      "sample": 180000,
+      "received": 4401.900000035763,
+      "target": 4415.641666690508,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 34,
+      "sample": 180000,
+      "duration": 0.19999998807907104,
+      "at": 1788681893147.1,
+      "drawCount": 22,
+      "totalDuration": 52.500000059604645,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 35,
+      "sample": 192000,
+      "received": 4652.5,
+      "target": 4665.685000011921,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 192512
+    },
+    {
+      "kind": "draw",
+      "eventId": 35,
+      "sample": 192000,
+      "duration": 0.6000000238418579,
+      "at": 1788681893398.1,
+      "drawCount": 23,
+      "totalDuration": 53.1000000834465,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 36,
+      "sample": 204000,
+      "received": 4897.800000011921,
+      "target": 4915.654666690509,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 36,
+      "sample": 204000,
+      "duration": 0.20000004768371582,
+      "at": 1788681893647.2002,
+      "drawCount": 24,
+      "totalDuration": 53.30000013113022,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 37,
+      "sample": 216000,
+      "received": 5148.600000023842,
+      "target": 5165.683000011921,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 216576
+    },
+    {
+      "kind": "draw",
+      "eventId": 37,
+      "sample": 216000,
+      "duration": 0.5,
+      "at": 1788681893896,
+      "drawCount": 25,
+      "totalDuration": 53.80000013113022,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 38,
+      "sample": 228000,
+      "received": 5399.300000011921,
+      "target": 5415.716333333333,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 38,
+      "sample": 228000,
+      "duration": 0.20000004768371582,
+      "at": 1788681894147.7002,
+      "drawCount": 26,
+      "totalDuration": 54.000000178813934,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 39,
+      "sample": 240000,
+      "received": 5650,
+      "target": 5665.753666654745,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 240640
+    },
+    {
+      "kind": "draw",
+      "eventId": 39,
+      "sample": 240000,
+      "duration": 0.6000000238418579,
+      "at": 1788681894398.2002,
+      "drawCount": 27,
+      "totalDuration": 54.60000020265579,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 40,
+      "sample": 252000,
+      "received": 5900.5,
+      "target": 5915.68600001192,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 40,
+      "sample": 252000,
+      "duration": 0.6000000238418579,
+      "at": 1788681894646.5,
+      "drawCount": 28,
+      "totalDuration": 55.20000022649765,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 41,
+      "sample": 264000,
+      "received": 6151.400000035763,
+      "target": 6165.704333333333,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 264704
+    },
+    {
+      "kind": "draw",
+      "eventId": 41,
+      "sample": 264000,
+      "duration": 0.09999996423721313,
+      "at": 1788681894895.8,
+      "drawCount": 29,
+      "totalDuration": 55.30000019073486,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 42,
+      "sample": 276000,
+      "received": 6401.800000011921,
+      "target": 6415.649666690509,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 42,
+      "sample": 276000,
+      "duration": 0.10000002384185791,
+      "at": 1788681895146.9001,
+      "drawCount": 30,
+      "totalDuration": 55.40000021457672,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 43,
+      "sample": 288000,
+      "received": 6652.699999988079,
+      "target": 6665.586999988079,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 288768
+    },
+    {
+      "kind": "draw",
+      "eventId": 43,
+      "sample": 288000,
+      "duration": 0.5,
+      "at": 1788681895397.3,
+      "drawCount": 31,
+      "totalDuration": 55.90000021457672,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 44,
+      "sample": 300000,
+      "received": 6898.100000023842,
+      "target": 6915.752666654746,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 44,
+      "sample": 300000,
+      "duration": 0.5,
+      "at": 1788681895646.8,
+      "drawCount": 32,
+      "totalDuration": 56.40000021457672,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 45,
+      "sample": 312000,
+      "received": 7148.600000023842,
+      "target": 7165.687000011921,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 45,
+      "sample": 312000,
+      "duration": 0.3999999761581421,
+      "at": 1788681895896.1,
+      "drawCount": 33,
+      "totalDuration": 56.80000019073486,
+      "maxDuration": 47.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 312832
+    }
+  ]
+}

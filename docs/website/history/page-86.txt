@@ -1,0 +1,36 @@
+armory Gd Une ide
+
+Diatonie ‘Church’ modes on the Clavier
+
+9. Bibliography
+
+‘The ideas in Harmony Grid are part of a body of harmony
+theory actively being studied by music theorists and
+‘mathematicians. If you'd like to know more about them,
+‘you might want to refer to these papers and programs,
+
+Balzano, Gerald J. 1980. "The Group-theoretic Description
+‘of 12-Fold and Microtonal Pitch Systems” Computer
+‘Music Journal, 4(4) 66.84
+
+Holland, Simon. 1987. "New Cognitive Theories of
+Harmony Applied to Direct Manipulation Tools for
+Novices” Proceedings of the 1987 International Computer
+Music Conference Urbana-Champaign, Illinois 182-189
+
+Longuet-Higgins, H.C. 1962. "Letter to a Musical Friend”
+The Music Review, August: 244-248
+
+Longuet-Higgins, H.C. 1962. "Second letter to a Musical
+Friend” The Music Review, November: 271-280
+
+Longuet-Higgins, H.C. 1965. “The Three Dimensions of
+“Harmony” Cambridge Research, October 1965.
+
+Spiegel, Laurie, 1986. "Music Mouse: An intelligent
+instrument,” Another interactive Macintosh program,
+Music Mouse uses a differen representation of harsony
+‘Acsteic Engineering, 175 Duane Steet, New York, NY
+10013,
+
+83

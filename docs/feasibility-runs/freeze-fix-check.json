@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-05",
+  "browser": "Chrome 152.0.0.0, macOS, foreground",
+  "viewport": {
+    "width": 1455,
+    "height": 974,
+    "scale": 2
+  },
+  "method": "Six fresh page loads, Start sound, 20 drags each, read audio and renderer diagnostics through browser CUA/CDP. No processor or clock injections in these six runs.",
+  "preFixObservedFault": {
+    "message": "Non-monotonic audio interval",
+    "sample": 3712,
+    "lastBlock": 3712
+  },
+  "checks": [
+    {
+      "currentTime": 2.1013333333333333,
+      "duplicateBlocks": 1,
+      "lateInputs": 1,
+      "lead": 67,
+      "peak": 0.22562496426443718
+    },
+    {
+      "currentTime": 2.1866666666666665,
+      "duplicateBlocks": 1,
+      "lateInputs": 1,
+      "lead": 67,
+      "peak": 0.22456133078499885
+    },
+    {
+      "currentTime": 2.2613333333333334,
+      "duplicateBlocks": 1,
+      "lateInputs": 0,
+      "lead": 67,
+      "peak": 0.2371207557651752
+    },
+    {
+      "currentTime": 1.9946666666666666,
+      "duplicateBlocks": 0,
+      "lateInputs": 0,
+      "lead": 67,
+      "peak": 0.22455305712214713
+    },
+    {
+      "currentTime": 2.1546666666666665,
+      "duplicateBlocks": 0,
+      "lateInputs": 0,
+      "lead": 67,
+      "peak": 0.23576933568061534
+    },
+    {
+      "currentTime": 2.1173333333333333,
+      "duplicateBlocks": 0,
+      "lateInputs": 0,
+      "lead": 67,
+      "peak": 0.226297006625269
+    }
+  ],
+  "allRuns": {
+    "state": "running",
+    "audioFault": null,
+    "nonFiniteSamples": 0,
+    "queueOverflows": 0,
+    "renderOverflows": 0,
+    "voiceSteals": 0
+  },
+  "tests": {
+    "passed": 54,
+    "files": 9,
+    "buildIncludingTypecheck": "passed"
+  },
+  "limitations": "Software output checked. Physical audio latency and Ethan's hands-on confirmation remain unverified. Runs target the intermittent startup failure, not long-session acceptance.",
+  "continuedPlaying": {
+    "currentTime": 66.70933333333333,
+    "leadAfterNewDrag": 55,
+    "audioFault": null,
+    "peak": 0.21367300477156548,
+    "nonFiniteSamples": 0,
+    "queueOverflows": 0,
+    "renderOverflows": 0
+  }
+}

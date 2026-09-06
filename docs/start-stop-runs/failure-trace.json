@@ -1,0 +1,78 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 0,
+      "outputTimestamp": {
+        "contextTime": 0,
+        "performanceTime": 0
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 1,
+      "maxDrawMs": 50.80000001192093,
+      "meanDrawMs": 50.80000001192093,
+      "renderOverflows": 0,
+      "palette": "ready"
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "dropped": 0,
+  "retention": "most recent events",
+  "capacity": 20000,
+  "events": [
+    {
+      "kind": "focus",
+      "at": 113
+    },
+    {
+      "kind": "focus",
+      "at": 113.09999996423721
+    },
+    {
+      "kind": "draw",
+      "duration": 50.80000001192093,
+      "at": 1788706732648.7,
+      "drawCount": 1,
+      "totalDuration": 50.80000001192093,
+      "maxDuration": 50.80000001192093,
+      "overflow": 0
+    },
+    {
+      "kind": "receipt",
+      "sample": 0
+    },
+    {
+      "kind": "input",
+      "id": 1,
+      "sent": 310.19999998807907,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 1,
+      "sent": 310.19999998807907,
+      "sample": 0
+    }
+  ]
+}

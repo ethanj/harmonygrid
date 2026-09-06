@@ -1,0 +1,14 @@
+{
+  "scope": "Design preview only; no audio or MIDI",
+  "witnesses": [
+    "new capture is empty; earlier notes still sound",
+    "clearing all selections preserves reference and earlier E4",
+    "refilling keeps C4 reference",
+    "N to M handoff continues after releasing N",
+    "M release opens naming and stops audition only",
+    "digit then Tab selects slot and focuses name",
+    "Escape from naming restores performance",
+    "empty release ends collection with notice",
+    "notice stays in header above playing workspace"
+  ]
+}

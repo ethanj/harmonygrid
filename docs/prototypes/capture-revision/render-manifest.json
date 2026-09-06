@@ -1,0 +1,112 @@
+{
+  "renderer": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "version": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "deviceScaleFactor": 1,
+  "viewportNote": "1280x800 review baseline and 1600x1000 comparison; neither measures the user display.",
+  "images": [
+    {
+      "file": "13-capture-no-eviction.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 211902,
+      "reviewAction": "None"
+    },
+    {
+      "file": "14-capture-optional-limit.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 212246,
+      "reviewAction": "None"
+    },
+    {
+      "file": "14b-capture-limit-after-click.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 214756,
+      "reviewAction": "Checked Limit capture audition notes after page load"
+    },
+    {
+      "file": "15-capture-empty-start.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 190648,
+      "reviewAction": "None"
+    },
+    {
+      "file": "16-capture-naming.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 171288,
+      "reviewAction": "None"
+    },
+    {
+      "file": "17-capture-empty-finish.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 209560,
+      "reviewAction": "None"
+    },
+    {
+      "file": "18-capture-mode.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 221573,
+      "reviewAction": "None"
+    },
+    {
+      "file": "1600x1000/13-capture-no-eviction.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 278484,
+      "reviewAction": "None"
+    },
+    {
+      "file": "1600x1000/14-capture-optional-limit.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 278827,
+      "reviewAction": "None"
+    },
+    {
+      "file": "1600x1000/14b-capture-limit-after-click.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 281936,
+      "reviewAction": "Checked Limit capture audition notes after page load"
+    },
+    {
+      "file": "1600x1000/15-capture-empty-start.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 249673,
+      "reviewAction": "None"
+    },
+    {
+      "file": "1600x1000/16-capture-naming.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 214430,
+      "reviewAction": "None"
+    },
+    {
+      "file": "1600x1000/17-capture-empty-finish.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 264914,
+      "reviewAction": "None"
+    },
+    {
+      "file": "1600x1000/18-capture-mode.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 287688,
+      "reviewAction": "None"
+    }
+  ]
+}

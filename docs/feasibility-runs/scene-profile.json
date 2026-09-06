@@ -1,0 +1,225 @@
+{
+  "checks": [
+    {
+      "label": "OffscreenCanvas renderer starts",
+      "pass": true
+    },
+    {
+      "label": "Free playing preserves the filtered chord tone",
+      "pass": true
+    },
+    {
+      "label": "Between-tick drag does not preview the next chord",
+      "pass": true
+    },
+    {
+      "label": "Next tick commits the moved chord and its filtered tone",
+      "pass": true
+    },
+    {
+      "label": "Sustain preserves earlier individual pitches",
+      "pass": true
+    },
+    {
+      "label": "Sustain release preserves the current chord",
+      "pass": true
+    },
+    {
+      "label": "Drone remains while the lead moves",
+      "pass": true
+    },
+    {
+      "label": "All Notes Off clears controls and sound",
+      "pass": true
+    },
+    {
+      "label": "Shift plus a number selects a mode using the physical digit key",
+      "pass": true
+    },
+    {
+      "label": "1280×800 surface fits without vertical scrolling",
+      "pass": true
+    },
+    {
+      "label": "No uncaught browser errors",
+      "pass": true
+    },
+    {
+      "label": "No engine queue overflow during smoke check",
+      "pass": true
+    },
+    {
+      "label": "No renderer snapshot overflow during smoke check",
+      "pass": true
+    },
+    {
+      "label": "The real worklet generated nonzero audio samples",
+      "pass": true
+    },
+    {
+      "label": "The real worklet generated no non-finite samples",
+      "pass": true
+    },
+    {
+      "label": "normal: telemetry capture did not overflow",
+      "pass": true
+    },
+    {
+      "label": "normal: audio engine has no queue overflow or non-finite samples",
+      "pass": true
+    },
+    {
+      "label": "expanded: telemetry capture did not overflow",
+      "pass": true
+    },
+    {
+      "label": "expanded: audio engine has no queue overflow or non-finite samples",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "state": "running",
+      "currentTime": 5.226666666666667,
+      "outputTimestamp": {
+        "contextTime": 5.207951333333333,
+        "performanceTime": 5685.400000035763
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 141,
+      "maxDrawMs": 7.300000011920929,
+      "meanDrawMs": 0.48085106306887687,
+      "renderOverflows": 0,
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "peak": 0.263213660830961,
+      "nonFiniteSamples": 0,
+      "sample": 239872
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "scenes": [
+    {
+      "scene": "normal",
+      "columns": 16,
+      "rows": 12,
+      "syntheticMoves": 2000,
+      "drawSamples": 1716,
+      "p50DrawMs": 0.3999999761581421,
+      "p95DrawMs": 0.8999999761581421,
+      "p99DrawMs": 1,
+      "maxDrawMs": 11.5,
+      "traceDropped": 0,
+      "environment": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+        "viewport": {
+          "width": 1600,
+          "height": 1000,
+          "scale": 1
+        },
+        "audio": {
+          "state": "running",
+          "currentTime": 34.944,
+          "outputTimestamp": {
+            "contextTime": 34.92528366666667,
+            "performanceTime": 35822.5
+          },
+          "sampleRate": 48000,
+          "baseLatency": 0.005333333333333333,
+          "outputLatency": 0.016
+        },
+        "health": {
+          "renderer": "OffscreenCanvas worker",
+          "drawCount": 1716,
+          "maxDrawMs": 11.5,
+          "meanDrawMs": 0.47581584998221943,
+          "renderOverflows": 0,
+          "kind": "health",
+          "queueOverflows": 0,
+          "lateInputs": 0,
+          "voiceSteals": 0,
+          "peak": 0.5243235392312248,
+          "nonFiniteSamples": 0,
+          "sample": 1632128
+        },
+        "midi": {
+          "lateOutputs": 0,
+          "lastError": null
+        }
+      }
+    },
+    {
+      "scene": "expanded",
+      "columns": 24,
+      "rows": 16,
+      "syntheticMoves": 2000,
+      "drawSamples": 1705,
+      "p50DrawMs": 0.5,
+      "p95DrawMs": 1.2000000476837158,
+      "p99DrawMs": 1.4000000357627869,
+      "maxDrawMs": 2.300000011920929,
+      "traceDropped": 0,
+      "environment": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+        "viewport": {
+          "width": 1600,
+          "height": 1000,
+          "scale": 1
+        },
+        "audio": {
+          "state": "running",
+          "currentTime": 34.00533333333333,
+          "outputTimestamp": {
+            "contextTime": 33.986614,
+            "performanceTime": 34872.30000001192
+          },
+          "sampleRate": 48000,
+          "baseLatency": 0.005333333333333333,
+          "outputLatency": 0.016
+        },
+        "health": {
+          "renderer": "OffscreenCanvas worker",
+          "drawCount": 1705,
+          "maxDrawMs": 2.300000011920929,
+          "meanDrawMs": 0.6295014659330642,
+          "renderOverflows": 0,
+          "kind": "health",
+          "queueOverflows": 0,
+          "lateInputs": 0,
+          "voiceSteals": 0,
+          "peak": 0.5521441065370367,
+          "nonFiniteSamples": 0,
+          "sample": 1632128
+        },
+        "midi": {
+          "lateOutputs": 0,
+          "lastError": null
+        }
+      }
+    }
+  ]
+}

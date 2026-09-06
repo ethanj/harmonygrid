@@ -1,0 +1,7 @@
+# Restored status and inline grid-axis controls
+
+The user's manual crop identified an omitted interaction, despite the previously implemented Grid & register dialog. The original status block combines current scale, highlighted mode/chord keyboard targeting, and inline horizontal/vertical interval arrows. Manual section 4.3 (printed page 18; PDF page 22) specifies 1–12 semitones and staged Set/Cancel controls replacing the status display during editing. Section 4.1 explains Shift XOR Caps Lock target highlighting. Source: [Harmony Grid manual](../harmonygrid.pdf).
+
+The restored block sits below the performance controls and above the metronome. It reuses the live scale/root display. Arrows show a pending value without altering the grid; Set applies through the existing grid/register transaction, and Cancel or Escape discards the draft. Enter also sets the draft. Current retained notes follow the existing grid-change behavior; new mapping waits for the next gesture. Other editing and file entry points are blocked while the inline draft is open. Grid & register remains available for numeric entry and register/ceiling settings. The Mode/Chord labels are status indicators, not new selection toggles.
+
+Design states were rendered before implementation in `docs/prototypes/status-controls`. Production images and 16 browser assertions are recorded here. The complete sidebar fits 1280 × 800 and 1600 × 1000. Unit suite: 158 tests pass. Production build passes. This corrects the earlier claim that all manual interface interactions were covered.

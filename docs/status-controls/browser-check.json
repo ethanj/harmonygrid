@@ -1,0 +1,76 @@
+{
+  "checks": [
+    {
+      "label": "Status combines scale and chord target beside the grid",
+      "pass": true
+    },
+    {
+      "label": "Complete sidebar fits 1280 × 800",
+      "pass": true
+    },
+    {
+      "label": "Arrow stages a change and reveals Set/Cancel without changing the grid",
+      "pass": true
+    },
+    {
+      "label": "Draft isolates other editing commands",
+      "pass": true
+    },
+    {
+      "label": "Cancel restores both intervals",
+      "pass": true
+    },
+    {
+      "label": "Set commits both intervals and restores status",
+      "pass": true
+    },
+    {
+      "label": "Escape cancels the inline draft",
+      "pass": true
+    },
+    {
+      "label": "Horizontal maximum is 12",
+      "pass": true
+    },
+    {
+      "label": "Vertical minimum is 1",
+      "pass": true
+    },
+    {
+      "label": "Shift highlights Mode",
+      "pass": true
+    },
+    {
+      "label": "Releasing Shift restores Chord",
+      "pass": true
+    },
+    {
+      "label": "Caps Lock highlights Mode",
+      "pass": true
+    },
+    {
+      "label": "Shift plus Caps Lock highlights Chord",
+      "pass": true
+    },
+    {
+      "label": "Complete sidebar fits 1600 × 1000",
+      "pass": true
+    },
+    {
+      "label": "Inline arrows remain usable after closing Grid & register",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  }
+}

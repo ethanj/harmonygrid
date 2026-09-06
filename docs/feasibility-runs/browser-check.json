@@ -1,0 +1,109 @@
+{
+  "checks": [
+    {
+      "label": "OffscreenCanvas renderer starts",
+      "pass": true
+    },
+    {
+      "label": "Free playing preserves the filtered chord tone",
+      "pass": true
+    },
+    {
+      "label": "Between-tick drag does not preview the next chord",
+      "pass": true
+    },
+    {
+      "label": "Next tick commits the moved chord and its filtered tone",
+      "pass": true
+    },
+    {
+      "label": "Sustain preserves earlier individual pitches",
+      "pass": true
+    },
+    {
+      "label": "Sustain release preserves the current chord",
+      "pass": true
+    },
+    {
+      "label": "Drone remains while the lead moves",
+      "pass": true
+    },
+    {
+      "label": "All Notes Off clears controls and sound",
+      "pass": true
+    },
+    {
+      "label": "Shift plus a number selects a mode using the physical digit key",
+      "pass": true
+    },
+    {
+      "label": "1280×800 surface fits without vertical scrolling",
+      "pass": true
+    },
+    {
+      "label": "No uncaught browser errors",
+      "pass": true
+    },
+    {
+      "label": "No engine queue overflow during smoke check",
+      "pass": true
+    },
+    {
+      "label": "No renderer snapshot overflow during smoke check",
+      "pass": true
+    },
+    {
+      "label": "The real worklet generated nonzero audio samples",
+      "pass": true
+    },
+    {
+      "label": "The real worklet generated no non-finite samples",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "state": "running",
+      "currentTime": 5.216,
+      "outputTimestamp": {
+        "contextTime": 5.197299666666667,
+        "performanceTime": 5677.399999976158
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 138,
+      "maxDrawMs": 8.299999952316284,
+      "meanDrawMs": 0.3268115952395011,
+      "renderOverflows": 0,
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "peak": 0.2807513238512484,
+      "nonFiniteSamples": 0,
+      "sample": 239872
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  }
+}

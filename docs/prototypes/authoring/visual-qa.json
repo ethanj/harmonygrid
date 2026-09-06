@@ -1,0 +1,560 @@
+[
+  {
+    "state": "1",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "07-collect-chord.png"
+  },
+  {
+    "state": "2",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "08-name-chord.png"
+  },
+  {
+    "state": "3",
+    "operation": "save",
+    "kind": "mode",
+    "selectedPitches": [
+      60,
+      62,
+      64,
+      67,
+      69,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": [
+      0,
+      2,
+      4,
+      7,
+      9
+    ],
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "09-collect-mode.png"
+  },
+  {
+    "state": "4",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "10-edit-slots.png"
+  },
+  {
+    "state": "5",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "11-save-document.png"
+  },
+  {
+    "state": "6",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": {
+      "count": 3,
+      "clientHeight": 106,
+      "scrollHeight": 106,
+      "scrollTop": 0,
+      "lastItemVisible": true,
+      "footerStationary": true,
+      "paddingLeft": 36
+    },
+    "documentHeight": 800,
+    "file": "12-unsaved-changes.png"
+  },
+  {
+    "state": "2",
+    "operation": "save",
+    "kind": "mode",
+    "selectedPitches": [
+      60,
+      62,
+      64,
+      67,
+      69,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "08b-name-mode.png"
+  },
+  {
+    "state": "4",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "10b-edit-modes.png"
+  },
+  {
+    "state": "5",
+    "operation": "open",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "11b-open-document.png"
+  },
+  {
+    "state": "6",
+    "operation": "revert",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 800,
+    "file": "12b-revert-document.png"
+  },
+  {
+    "state": "6",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": {
+      "count": 40,
+      "clientHeight": 218,
+      "scrollHeight": 1150,
+      "scrollTop": 932,
+      "lastItemVisible": true,
+      "footerStationary": true,
+      "paddingLeft": 36
+    },
+    "documentHeight": 800,
+    "file": "12c-many-changes.png"
+  },
+  {
+    "state": "1",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/07-collect-chord.png"
+  },
+  {
+    "state": "2",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/08-name-chord.png"
+  },
+  {
+    "state": "3",
+    "operation": "save",
+    "kind": "mode",
+    "selectedPitches": [
+      60,
+      62,
+      64,
+      67,
+      69,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": [
+      0,
+      2,
+      4,
+      7,
+      9
+    ],
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/09-collect-mode.png"
+  },
+  {
+    "state": "4",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/10-edit-slots.png"
+  },
+  {
+    "state": "5",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/11-save-document.png"
+  },
+  {
+    "state": "6",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": {
+      "count": 3,
+      "clientHeight": 106,
+      "scrollHeight": 106,
+      "scrollTop": 0,
+      "lastItemVisible": true,
+      "footerStationary": true,
+      "paddingLeft": 36
+    },
+    "documentHeight": 1000,
+    "file": "1600x1000/12-unsaved-changes.png"
+  },
+  {
+    "state": "2",
+    "operation": "save",
+    "kind": "mode",
+    "selectedPitches": [
+      60,
+      62,
+      64,
+      67,
+      69,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/08b-name-mode.png"
+  },
+  {
+    "state": "4",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/10b-edit-modes.png"
+  },
+  {
+    "state": "5",
+    "operation": "open",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/11b-open-document.png"
+  },
+  {
+    "state": "6",
+    "operation": "revert",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": null,
+    "documentHeight": 1000,
+    "file": "1600x1000/12b-revert-document.png"
+  },
+  {
+    "state": "6",
+    "operation": "save",
+    "kind": "chord",
+    "selectedPitches": [
+      64,
+      67,
+      71,
+      72
+    ],
+    "reference": 60,
+    "slot": 6,
+    "modeTones": null,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "controlOverflow": [],
+    "changesList": {
+      "count": 40,
+      "clientHeight": 218,
+      "scrollHeight": 1150,
+      "scrollTop": 932,
+      "lastItemVisible": true,
+      "footerStationary": true,
+      "paddingLeft": 36
+    },
+    "documentHeight": 1000,
+    "file": "1600x1000/12c-many-changes.png"
+  }
+]

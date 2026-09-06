@@ -1,0 +1,119 @@
+{
+  "checks": [
+    {
+      "label": "Sampled bank initializes in the real AudioWorklet",
+      "pass": true
+    },
+    {
+      "label": "New instruments default to shared Thru channel and no capture eviction",
+      "pass": true
+    },
+    {
+      "label": "Performance settings actions fit 1280 × 800",
+      "pass": true
+    },
+    {
+      "label": "Cancel restores performance draft",
+      "pass": true
+    },
+    {
+      "label": "Invalid velocity blocks Apply",
+      "pass": true
+    },
+    {
+      "label": "Apply reaches committed settings",
+      "pass": true
+    },
+    {
+      "label": "Saved slot reopens selected pitches with fixed reference and Auto off",
+      "pass": true
+    },
+    {
+      "label": "Examples honor unsaved changes",
+      "pass": true
+    },
+    {
+      "label": "Example opens its actual chord and sound",
+      "pass": true
+    },
+    {
+      "label": "piano produces finite audio",
+      "pass": true
+    },
+    {
+      "label": "electric produces finite audio",
+      "pass": true
+    },
+    {
+      "label": "vibes produces finite audio",
+      "pass": true
+    },
+    {
+      "label": "tonewheel produces finite audio",
+      "pass": true
+    },
+    {
+      "label": "organ produces finite audio",
+      "pass": true
+    },
+    {
+      "label": "pluck produces finite audio",
+      "pass": true
+    },
+    {
+      "label": "New settings and sound persist through the real file flow",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1600,
+      "height": 1000,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 7.978666666666666,
+      "outputTimestamp": {
+        "contextTime": 7.959955333333333,
+        "performanceTime": 8266.300000011921
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "main-thread Canvas fallback",
+      "palette": "ready",
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 360960
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  }
+}

@@ -1,0 +1,2221 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1600,
+      "height": 1000,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 7.978666666666666,
+      "outputTimestamp": {
+        "contextTime": 7.959955333333333,
+        "performanceTime": 8266.300000011921
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "main-thread Canvas fallback",
+      "palette": "ready",
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 360960
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "dropped": 0,
+  "retention": "most recent events",
+  "capacity": 20000,
+  "events": [
+    {
+      "kind": "focus",
+      "at": 101.5
+    },
+    {
+      "kind": "focus",
+      "at": 101.60000002384186
+    },
+    {
+      "kind": "receipt",
+      "sample": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 3,
+      "sample": 0,
+      "received": 227.30000001192093,
+      "target": 229.9666666785876,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 0
+    },
+    {
+      "kind": "input",
+      "id": 1,
+      "sent": 456.60000002384186,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "variations": {
+            "multiMidi": true,
+            "repeatDrone": "all",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": false,
+            "refreshSustainAge": false
+          },
+          "mouseChannel": 2,
+          "midiChannel": 4,
+          "velocity": 70
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 1,
+      "sent": 456.60000002384186,
+      "sample": 7936
+    },
+    {
+      "kind": "commit",
+      "eventId": 4,
+      "sample": 7936,
+      "received": 471.10000002384186,
+      "target": 471.6063333094915,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 5,
+      "sample": 12000,
+      "received": 538.5,
+      "target": 556.3456666785876,
+      "actions": []
+    },
+    {
+      "kind": "input",
+      "id": 2,
+      "sent": 589.6999999880791,
+      "input": {
+        "type": "captureStart",
+        "kind": "chord"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 3,
+      "sent": 589.6999999880791,
+      "input": {
+        "type": "captureCancel"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 4,
+      "sent": 589.8000000119209,
+      "input": {
+        "type": "captureStart",
+        "kind": "chord",
+        "seed": {
+          "reference": 60,
+          "pitches": [
+            60,
+            63,
+            64,
+            67
+          ]
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 2,
+      "sent": 589.6999999880791,
+      "sample": 14336
+    },
+    {
+      "kind": "receipt",
+      "id": 3,
+      "sent": 589.6999999880791,
+      "sample": 14336
+    },
+    {
+      "kind": "receipt",
+      "id": 4,
+      "sent": 589.8000000119209,
+      "sample": 14336
+    },
+    {
+      "kind": "commit",
+      "eventId": 6,
+      "sample": 14336,
+      "received": 604.5,
+      "target": 605.0083333452543,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 7,
+      "sample": 14336,
+      "received": 604.5,
+      "target": 605.0083333452543,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 8,
+      "sample": 14336,
+      "received": 604.5,
+      "target": 605.0083333452543,
+      "actions": [
+        {
+          "pitch": 60,
+          "velocity": 70,
+          "channel": 2,
+          "type": "on",
+          "sample": 14336,
+          "eventId": 8
+        },
+        {
+          "pitch": 63,
+          "velocity": 70,
+          "channel": 2,
+          "type": "on",
+          "sample": 14336,
+          "eventId": 8
+        },
+        {
+          "pitch": 64,
+          "velocity": 70,
+          "channel": 2,
+          "type": "on",
+          "sample": 14336,
+          "eventId": 8
+        },
+        {
+          "pitch": 67,
+          "velocity": 70,
+          "channel": 2,
+          "type": "on",
+          "sample": 14336,
+          "eventId": 8
+        }
+      ]
+    },
+    {
+      "kind": "input",
+      "id": 5,
+      "sent": 722.1000000238419,
+      "input": {
+        "type": "captureCancel"
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 5,
+      "sent": 722.1000000238419,
+      "sample": 20736
+    },
+    {
+      "kind": "commit",
+      "eventId": 9,
+      "sample": 20736,
+      "received": 737,
+      "target": 738.4163333214124,
+      "actions": [
+        {
+          "pitch": 60,
+          "velocity": 70,
+          "channel": 2,
+          "type": "off",
+          "sample": 20736,
+          "eventId": 9
+        },
+        {
+          "pitch": 63,
+          "velocity": 70,
+          "channel": 2,
+          "type": "off",
+          "sample": 20736,
+          "eventId": 9
+        },
+        {
+          "pitch": 64,
+          "velocity": 70,
+          "channel": 2,
+          "type": "off",
+          "sample": 20736,
+          "eventId": 9
+        },
+        {
+          "pitch": 67,
+          "velocity": 70,
+          "channel": 2,
+          "type": "off",
+          "sample": 20736,
+          "eventId": 9
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 10,
+      "sample": 24000,
+      "received": 804.5,
+      "target": 806.3103333571751,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.1850723166114976,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 24064
+    },
+    {
+      "kind": "input",
+      "id": 6,
+      "sent": 972,
+      "input": {
+        "type": "document",
+        "settings": {
+          "variations": {
+            "multiMidi": false,
+            "repeatDrone": "off",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": true,
+            "refreshSustainAge": false
+          },
+          "captureHoldNumber": 32,
+          "maxPitch": 127,
+          "chord": [
+            0,
+            7,
+            16
+          ],
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
+          "root": 0,
+          "tempo": 240,
+          "holdNumber": 32,
+          "mouseChannel": 0,
+          "midiChannel": 0,
+          "velocity": 96,
+          "captureLimit": false,
+          "metronome": false,
+          "mouseSolo": false,
+          "playChords": true,
+          "setsRoot": false
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 6,
+      "sent": 972,
+      "sample": 32768
+    },
+    {
+      "kind": "commit",
+      "eventId": 12,
+      "sample": 32768,
+      "received": 987.8999999761581,
+      "target": 989.0103333452541,
+      "actions": []
+    },
+    {
+      "kind": "input",
+      "id": 7,
+      "sent": 1037.1000000238419,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 7,
+      "sent": 1037.1000000238419,
+      "sample": 35840
+    },
+    {
+      "kind": "input",
+      "id": 8,
+      "sent": 1037.8999999761581,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "root": 9
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 9,
+      "sent": 1037.8999999761581,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 8,
+      "sent": 1037.8999999761581,
+      "sample": 35840
+    },
+    {
+      "kind": "receipt",
+      "id": 9,
+      "sent": 1037.8999999761581,
+      "sample": 35840
+    },
+    {
+      "kind": "commit",
+      "eventId": 13,
+      "sample": 35840,
+      "received": 1053.6000000238419,
+      "target": 1053.0123333452543,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 13
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 13
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 14,
+      "sample": 35840,
+      "received": 1053.6000000238419,
+      "target": 1053.0123333452543,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 35840,
+          "eventId": 14
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 35840,
+          "eventId": 14
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 14
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 14
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 14
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 15,
+      "sample": 35840,
+      "received": 1053.6000000238419,
+      "target": 1053.0123333452543,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 35840,
+          "eventId": 15
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 35840,
+          "eventId": 15
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 35840,
+          "eventId": 15
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 15
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 15
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 35840,
+          "eventId": 15
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 16,
+      "sample": 44768,
+      "received": 1221.199999988079,
+      "target": 1238.9426666428249,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 8,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.48844922916456457,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 48128
+    },
+    {
+      "kind": "commit",
+      "eventId": 17,
+      "sample": 56768,
+      "received": 1471.800000011921,
+      "target": 1488.9840000238419,
+      "actions": []
+    },
+    {
+      "kind": "input",
+      "id": 10,
+      "sent": 1671.699999988079,
+      "input": {
+        "type": "panic"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 11,
+      "sent": 1688.800000011921,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 10,
+      "sent": 1671.699999988079,
+      "sample": 66304
+    },
+    {
+      "kind": "commit",
+      "eventId": 18,
+      "sample": 66304,
+      "received": 1689.1000000238419,
+      "target": 1687.7073333333333,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 66304,
+          "eventId": 18
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 66304,
+          "eventId": 18
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 66304,
+          "eventId": 18
+        }
+      ]
+    },
+    {
+      "kind": "receipt",
+      "id": 11,
+      "sent": 1688.800000011921,
+      "sample": 67072
+    },
+    {
+      "kind": "input",
+      "id": 12,
+      "sent": 1689.300000011921,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "root": 9
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 13,
+      "sent": 1689.300000011921,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 12,
+      "sent": 1689.300000011921,
+      "sample": 67072
+    },
+    {
+      "kind": "receipt",
+      "id": 13,
+      "sent": 1689.300000011921,
+      "sample": 67072
+    },
+    {
+      "kind": "commit",
+      "eventId": 19,
+      "sample": 67072,
+      "received": 1705.800000011921,
+      "target": 1703.7073333333333,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 19
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 19
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 19
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 20,
+      "sample": 67072,
+      "received": 1705.800000011921,
+      "target": 1703.7073333333333,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 67072,
+          "eventId": 20
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 67072,
+          "eventId": 20
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 67072,
+          "eventId": 20
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 20
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 20
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 20
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 21,
+      "sample": 67072,
+      "received": 1705.800000011921,
+      "target": 1703.7073333333333,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 67072,
+          "eventId": 21
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 67072,
+          "eventId": 21
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 67072,
+          "eventId": 21
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 21
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 21
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 67072,
+          "eventId": 21
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 22,
+      "sample": 68768,
+      "received": 1722.699999988079,
+      "target": 1739.0163333452542,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 17,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.3956124985797109,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 72192
+    },
+    {
+      "kind": "commit",
+      "eventId": 23,
+      "sample": 80768,
+      "received": 1973.199999988079,
+      "target": 1988.9516666428249,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 24,
+      "sample": 92768,
+      "received": 2223.800000011921,
+      "target": 2238.9740000238417,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 6,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.117653955449125,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 96256
+    },
+    {
+      "kind": "input",
+      "id": 14,
+      "sent": 2323,
+      "input": {
+        "type": "panic"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 15,
+      "sent": 2338.100000023842,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 14,
+      "sent": 2323,
+      "sample": 97536
+    },
+    {
+      "kind": "commit",
+      "eventId": 25,
+      "sample": 97536,
+      "received": 2338.5,
+      "target": 2338.3123333571752,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 97536,
+          "eventId": 25
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 97536,
+          "eventId": 25
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 97536,
+          "eventId": 25
+        }
+      ]
+    },
+    {
+      "kind": "receipt",
+      "id": 15,
+      "sent": 2338.100000023842,
+      "sample": 98304
+    },
+    {
+      "kind": "input",
+      "id": 16,
+      "sent": 2338.699999988079,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "root": 9
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 17,
+      "sent": 2338.699999988079,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 16,
+      "sent": 2338.699999988079,
+      "sample": 98304
+    },
+    {
+      "kind": "receipt",
+      "id": 17,
+      "sent": 2338.699999988079,
+      "sample": 98304
+    },
+    {
+      "kind": "commit",
+      "eventId": 26,
+      "sample": 98304,
+      "received": 2356.199999988079,
+      "target": 2354.304333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 26
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 26
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 26
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 27,
+      "sample": 98304,
+      "received": 2356.199999988079,
+      "target": 2354.304333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 98304,
+          "eventId": 27
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 98304,
+          "eventId": 27
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 98304,
+          "eventId": 27
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 27
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 27
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 27
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 28,
+      "sample": 98304,
+      "received": 2356.199999988079,
+      "target": 2354.304333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 98304,
+          "eventId": 28
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 98304,
+          "eventId": 28
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 98304,
+          "eventId": 28
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 28
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 28
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 98304,
+          "eventId": 28
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 29,
+      "sample": 104768,
+      "received": 2474.5,
+      "target": 2489.008333345254,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 30,
+      "sample": 116768,
+      "received": 2725.199999988079,
+      "target": 2738.944666642825,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 9,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.5880889019644142,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 120320
+    },
+    {
+      "kind": "input",
+      "id": 18,
+      "sent": 2972,
+      "input": {
+        "type": "panic"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 19,
+      "sent": 2988,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 18,
+      "sent": 2972,
+      "sample": 128768
+    },
+    {
+      "kind": "commit",
+      "eventId": 31,
+      "sample": 128768,
+      "received": 2988.399999976158,
+      "target": 2988.9973333452544,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 128768,
+          "eventId": 31
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 128768,
+          "eventId": 31
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 128768,
+          "eventId": 31
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 32,
+      "sample": 128768,
+      "received": 2988.399999976158,
+      "target": 2988.9973333452544,
+      "actions": []
+    },
+    {
+      "kind": "receipt",
+      "id": 19,
+      "sent": 2988,
+      "sample": 129536
+    },
+    {
+      "kind": "input",
+      "id": 20,
+      "sent": 2988.600000023842,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "root": 9
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 21,
+      "sent": 2988.600000023842,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 20,
+      "sent": 2988.600000023842,
+      "sample": 129536
+    },
+    {
+      "kind": "receipt",
+      "id": 21,
+      "sent": 2988.600000023842,
+      "sample": 129536
+    },
+    {
+      "kind": "commit",
+      "eventId": 33,
+      "sample": 129536,
+      "received": 3004.699999988079,
+      "target": 3005.014333345254,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 33
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 33
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 33
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 34,
+      "sample": 129536,
+      "received": 3004.699999988079,
+      "target": 3005.014333345254,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 129536,
+          "eventId": 34
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 129536,
+          "eventId": 34
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 129536,
+          "eventId": 34
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 34
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 34
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 34
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 35,
+      "sample": 129536,
+      "received": 3004.699999988079,
+      "target": 3005.014333345254,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 129536,
+          "eventId": 35
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 129536,
+          "eventId": 35
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 129536,
+          "eventId": 35
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 35
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 35
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 129536,
+          "eventId": 35
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 36,
+      "sample": 140768,
+      "received": 3221.199999988079,
+      "target": 3238.9536666428244,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 12,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.3321395687264806,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 144384
+    },
+    {
+      "kind": "commit",
+      "eventId": 37,
+      "sample": 152768,
+      "received": 3471.899999976158,
+      "target": 3488.984000023842,
+      "actions": []
+    },
+    {
+      "kind": "input",
+      "id": 22,
+      "sent": 3621.199999988079,
+      "input": {
+        "type": "panic"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 23,
+      "sent": 3638.600000023842,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 22,
+      "sent": 3621.199999988079,
+      "sample": 160000
+    },
+    {
+      "kind": "commit",
+      "eventId": 38,
+      "sample": 160000,
+      "received": 3639,
+      "target": 3639.7163333333338,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160000,
+          "eventId": 38
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160000,
+          "eventId": 38
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160000,
+          "eventId": 38
+        }
+      ]
+    },
+    {
+      "kind": "input",
+      "id": 24,
+      "sent": 3639.100000023842,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "root": 9
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 25,
+      "sent": 3639.100000023842,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 23,
+      "sent": 3638.600000023842,
+      "sample": 160768
+    },
+    {
+      "kind": "receipt",
+      "id": 24,
+      "sent": 3639.100000023842,
+      "sample": 160768
+    },
+    {
+      "kind": "receipt",
+      "id": 25,
+      "sent": 3639.100000023842,
+      "sample": 160768
+    },
+    {
+      "kind": "commit",
+      "eventId": 39,
+      "sample": 160768,
+      "received": 3655.5,
+      "target": 3655.7153333333335,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 39
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 39
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 39
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 40,
+      "sample": 160768,
+      "received": 3655.5,
+      "target": 3655.7153333333335,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160768,
+          "eventId": 40
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160768,
+          "eventId": 40
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160768,
+          "eventId": 40
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 40
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 40
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 40
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 41,
+      "sample": 160768,
+      "received": 3655.5,
+      "target": 3655.7153333333335,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160768,
+          "eventId": 41
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160768,
+          "eventId": 41
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 160768,
+          "eventId": 41
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 41
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 41
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 160768,
+          "eventId": 41
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 42,
+      "sample": 164768,
+      "received": 3722.399999976158,
+      "target": 3739.0153333452545,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 3,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.20888887814237958,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 168448
+    },
+    {
+      "kind": "commit",
+      "eventId": 43,
+      "sample": 176768,
+      "received": 3973.100000023842,
+      "target": 3989.0466666666666,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 44,
+      "sample": 188768,
+      "received": 4224,
+      "target": 4239.086999988079,
+      "actions": []
+    },
+    {
+      "kind": "input",
+      "id": 26,
+      "sent": 4274.399999976158,
+      "input": {
+        "type": "panic"
+      }
+    },
+    {
+      "kind": "input",
+      "id": 27,
+      "sent": 4287.899999976158,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 26,
+      "sent": 4274.399999976158,
+      "sample": 191232
+    },
+    {
+      "kind": "commit",
+      "eventId": 45,
+      "sample": 191232,
+      "received": 4288.800000011921,
+      "target": 4290.320333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 191232,
+          "eventId": 45
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 191232,
+          "eventId": 45
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 191232,
+          "eventId": 45
+        }
+      ]
+    },
+    {
+      "kind": "receipt",
+      "id": 27,
+      "sent": 4287.899999976158,
+      "sample": 192000
+    },
+    {
+      "kind": "input",
+      "id": 28,
+      "sent": 4289.399999976158,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "root": 9
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 29,
+      "sent": 4289.5,
+      "input": {
+        "type": "pointer",
+        "pitch": 69,
+        "down": true,
+        "strike": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 28,
+      "sent": 4289.399999976158,
+      "sample": 192000
+    },
+    {
+      "kind": "receipt",
+      "id": 29,
+      "sent": 4289.5,
+      "sample": 192000
+    },
+    {
+      "kind": "commit",
+      "eventId": 46,
+      "sample": 192000,
+      "received": 4305.600000023842,
+      "target": 4306.315333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 46
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 46
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 46
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 47,
+      "sample": 192000,
+      "received": 4305.600000023842,
+      "target": 4306.315333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 192000,
+          "eventId": 47
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 192000,
+          "eventId": 47
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 192000,
+          "eventId": 47
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 47
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 47
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 47
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 48,
+      "sample": 192000,
+      "received": 4305.600000023842,
+      "target": 4306.315333357175,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 192000,
+          "eventId": 48
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 192000,
+          "eventId": 48
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 192000,
+          "eventId": 48
+        },
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 48
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 48
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 192000,
+          "eventId": 48
+        }
+      ]
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.2087732493894701,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 192512
+    },
+    {
+      "kind": "commit",
+      "eventId": 49,
+      "sample": 200768,
+      "received": 4474.5,
+      "target": 4489.019333345254,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 50,
+      "sample": 212768,
+      "received": 4725.300000011921,
+      "target": 4739.053666666667,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.19531600036200694,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 216576
+    },
+    {
+      "kind": "input",
+      "id": 30,
+      "sent": 4922.199999988079,
+      "input": {
+        "type": "panic"
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 30,
+      "sent": 4922.199999988079,
+      "sample": 222208
+    },
+    {
+      "kind": "commit",
+      "eventId": 51,
+      "sample": 222208,
+      "received": 4938.5,
+      "target": 4935.685000011921,
+      "actions": [
+        {
+          "pitch": 69,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 222208,
+          "eventId": 51
+        },
+        {
+          "pitch": 76,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 222208,
+          "eventId": 51
+        },
+        {
+          "pitch": 85,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 222208,
+          "eventId": 51
+        }
+      ]
+    },
+    {
+      "kind": "commit",
+      "eventId": 52,
+      "sample": 224768,
+      "received": 4975.800000011921,
+      "target": 4988.980000023842,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 53,
+      "sample": 236768,
+      "received": 5221.399999976158,
+      "target": 5239.053666666667,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.11645819207007184,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 240640
+    },
+    {
+      "kind": "commit",
+      "eventId": 54,
+      "sample": 248768,
+      "received": 5472.100000023842,
+      "target": 5488.985000023843,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 55,
+      "sample": 260768,
+      "received": 5722.5,
+      "target": 5739.014333345254,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 264704
+    },
+    {
+      "kind": "commit",
+      "eventId": 56,
+      "sample": 272768,
+      "received": 5973.199999988079,
+      "target": 5989.036666666668,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 57,
+      "sample": 284768,
+      "received": 6223.699999988079,
+      "target": 6238.984000023843,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 288768
+    },
+    {
+      "kind": "commit",
+      "eventId": 58,
+      "sample": 296768,
+      "received": 6474.600000023842,
+      "target": 6489.019333345254,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 59,
+      "sample": 308768,
+      "received": 6725.199999988079,
+      "target": 6739.053666666667,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 312832
+    },
+    {
+      "kind": "commit",
+      "eventId": 60,
+      "sample": 320768,
+      "received": 6975.800000011921,
+      "target": 6989.080999988079,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 61,
+      "sample": 332768,
+      "received": 7222,
+      "target": 7239.0526666666665,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 336896
+    },
+    {
+      "kind": "commit",
+      "eventId": 62,
+      "sample": 344768,
+      "received": 7471.800000011921,
+      "target": 7488.985000023843,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 63,
+      "sample": 356768,
+      "received": 7722.800000011921,
+      "target": 7739.021333345255,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 360960
+    },
+    {
+      "kind": "commit",
+      "eventId": 64,
+      "sample": 368768,
+      "received": 7973.100000023842,
+      "target": 7988.952666642825,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 65,
+      "sample": 380768,
+      "received": 8223.800000011921,
+      "target": 8238.970000023843,
+      "actions": []
+    }
+  ]
+}

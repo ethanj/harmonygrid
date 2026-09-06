@@ -1,0 +1,138 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "state": "running",
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 3,
+      "maxDrawMs": 8.100000023841858,
+      "meanDrawMs": 3.100000003973643,
+      "renderOverflows": 0
+    },
+    "midi": {
+      "lateOutputs": 0
+    }
+  },
+  "dropped": 0,
+  "events": [
+    {
+      "kind": "draw",
+      "duration": 8.100000023841858,
+      "at": 1788646298292.5,
+      "drawCount": 1,
+      "totalDuration": 8.100000023841858,
+      "maxDuration": 8.100000023841858,
+      "overflow": 0
+    },
+    {
+      "kind": "focus",
+      "at": 351.7999999523163
+    },
+    {
+      "kind": "focus",
+      "at": 351.7999999523163
+    },
+    {
+      "kind": "receipt",
+      "sample": 0
+    },
+    {
+      "kind": "input",
+      "id": 1,
+      "sent": 358.5999999642372,
+      "input": {
+        "type": "pointer",
+        "pitch": 60,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 1,
+      "sent": 358.5999999642372,
+      "sample": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 3,
+      "sample": 0,
+      "received": 393.2999999523163,
+      "target": 395.96666661898297,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 4,
+      "sample": 0,
+      "received": 393.39999997615814,
+      "target": 393.39999997615814,
+      "actions": [
+        {
+          "pitch": 60,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 0,
+          "eventId": 4
+        },
+        {
+          "pitch": 64,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 0,
+          "eventId": 4
+        },
+        {
+          "pitch": 67,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 0,
+          "eventId": 4
+        }
+      ]
+    },
+    {
+      "kind": "draw",
+      "eventId": 4,
+      "sample": 0,
+      "duration": 1,
+      "at": 1788646298634.6,
+      "drawCount": 2,
+      "totalDuration": 9.100000023841858,
+      "maxDuration": 8.100000023841858,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 5,
+      "sample": 12000,
+      "received": 704.3999999761581,
+      "target": 722.2546666547457,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 5,
+      "sample": 12000,
+      "duration": 0.19999998807907104,
+      "at": 1788646298951.5,
+      "drawCount": 3,
+      "totalDuration": 9.300000011920929,
+      "maxDuration": 8.100000023841858,
+      "overflow": 0
+    }
+  ]
+}

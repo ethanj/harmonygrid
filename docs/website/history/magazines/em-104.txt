@@ -1,0 +1,186 @@
+DMM LP 
+MASTERING 
+State-of-the-art, Direct 
+Metal Mastering, a 
+quantum leap in LP 
+quality 
+LP PRESSING 
+DMM audiophile quality— 
+Teldec vinyl 
+DIGITAL SERVICES 
+Neve Digital Console— 
+EQ, Limiting/ 
+Compression 
+Sony Editing 
+Digital Format 
+Conversion 
+Analog-to-Digital 
+Transfer 
+CD Master Tapes 
+DAT Copies 
+COMPACT DISC PRODUCTION 
+CASSETTE DUPLICATION 
+7 INCH SINGLES 
+_ 
+Complete packages with printing 
+EUROPÄDISK.LTD. 
+Dmm 
+75 Varick Street 
+>\Most«inaÆ 
+New York, NY 10013 
+(212) 226-4401 
+SPECIAL 
+INTELLIGENCE 
+THE KEYBOARD SHOP 
+—HOUSTON 
+WE SPECIALIZE IN 
+INTELLIGENT, TECHNICAL 
+INFORMATION ON WHAT 
+WE SEH.. THATS VW 
+WE 
+DO IT BEST! 
+CALL AND ASK FOR OUR TOLL FREE 
+ORDER NUMBER. 
+713/781-KEYS 
+THE KEYBOARD SHOP IS A 
+DIVISION OF THE 
+DRLÎM/KEYBOARD/GUITAR SHOP 
+5626 SOUTHWEST FREEWAY 
+HOUSTON, TX 77057 
+• ROLAND GR-50 
+get another neat effect by programming 
+velocity to switch between two different 
+sounds, thus letting you play either 
+sound just by varying your picking tech¬ 
+nique. Similar to keyboard split, the unit 
+also lets you assign different sounds to 
+each string or group of strings on the 
+guitar, which, among other things, is 
+great for playing two-part music. For 
+example, I set up a bass on the bottom 
+three strings and a flute on the top; 
+within minutes I was playing a passable 
+version of Bourrée. 
+As with all guitar synths you have to 
+pay attention to your playing technique 
+to avoid glitches from damped notes, 
+unintentional hammer-ons, etc. Be 
+aware that the GR-50 is limited in the 
+number of notes it can play simultane¬ 
+ously (the limit is 32 partials—most 
+patches use four partials per note); so if 
+you set a nice bright acoustic guitar 
+patch, then try to play Townshend-style 
+strummed chords, the GR-50 will very 
+quickly run out of partials to use for sus¬ 
+tain, with unpredictable results. 
+However, don’t forget that you can 
+increase the apparent number of 
+voices—and get some really great ef¬ 
+fects—by using the GR-50 to mix 
+straight guitar with the synth sounds. 
+You can set up excellent 12-string and 
+other thickening patches, as well as, for 
+example, adding a little touch of a string 
+timbre to your rhythm chords, or bass 
+doubling a lead for that really heavy 
+sound. 
+THE MIDI CONNECTION 
+The GR-50 also presents a full comple¬ 
+ment of MIDI features. Both poly mode 
+and mono mode (i.e., one MIDI chan¬ 
+nel to each string) are supported. If you 
+have the channels available, mono 
+mode best captures the nuances of play¬ 
+ing individual string bends, chokes, and 
+other effects. Mono also allows different 
+sounds to be allocated to different 
+strings if you use external sound 
+module(s). 
+The GR-50 sends pitch bend mes¬ 
+sages—continuous or chromatic (dis¬ 
+crete steps)—to indicate string bend. 
+Being in poly mode and bending more 
+than one string automatically selects 
+chromatic mode. A branch structure 
+enables the same signal to be sent with 
+two different sets of MIDI parameters at 
+the same time (for instance, poly mode 
+data over MIDI channel 3, and mono 
+mode data to 11 through 16). The GR-
+IEMUG 
+NO on-line fees 
+for over 
+50 Megs of MIDI! 
+• Programs 
+• Songs 
+• Patches 
+• Help 
+• Classifieds 
+• Fellow MIDI-ists! ! 
+Central Host 
+NYC 
+San Diego 
+Denton. TX 
+Cincinnati 1 
+Cincinnati 2 
+Greensboro. NC 
+Phoenix. AZ 
+Irvine. CA 
+Montreal. Canada 
+Hong Kong 
+405/733-3102 
+212/879 2625 
+619/698-7155 
+817/565-1500 
+606/727 3638 
+513/396-7166 
+919/274-7000 
+602 864 0244 
+714/552-3036 
+514/744-7354 
+852/369 8647 
+3/12'24/96 
+3/12/24 
+3/12/24 
+3/12/24 
+3/12'24 96 
+3/12/24 96 
+3/12/2496 
+3/12 
+3/12/2496 
+3/12 
+3/12/24 
+and over 400 other BBS’s. 
+Call for nearest affiliate! 
+International Electronic 
+Musician’s Users Group 
+Voice: 405/736-6676 
+FOR ADDITIONAL FOUR DESIGNS 
+PRODUCT INFORMATION, CALL: 
+1-800-544-3746 
+SAY YOU SAW IT IN 
+ELECTRONIC MUSICIAN! 
+ECONOMICAL 19’ RACK MOUNT 
+FURNITURE 
+FOR THE 
+PROFESSIONAL OR HOME STUDIO 
+Fl RACK FEATURES 
+Holds up to 18 
+spaces' 
+of 
+equipment 
+Attractive black textured vinyl 
+laminate 
+■ Shown with optional wheels 
+ASK YOUR DEALER FOR A 
+DEMONSTRATION 
+CALL OR WRITE FOR FREE BROCHURE 
+FOUR 
+DESIGNS 
+COMPANY 
+6531 GROSS AVENUE • CAN0GA PARK CA 91307 
+(818) 716-8540 
+100 
+Electronic Musician 
+October 1989 

@@ -1,0 +1,9 @@
+node_modules/
+docs/build/
+docs/prototypes/.render-profile*/
+docs/feasibility-runs/.browser-profile*/
+.DS_Store
+
+.herenow/
+docs/site/
+docs/website/.browser-profile*/

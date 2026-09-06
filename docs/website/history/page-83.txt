@@ -1,0 +1,50 @@
+many Git Une! ule
+
+7. Appendix I: Menu summary
+
+File
+
+Eait
+
+Harmony Grid Help (in desk accessory menu)
+
+Open
+save
+Save As...
+Revert
+
+Copy (c)
+Paste (U)
+
+Options
+
+Internal Sound
+
+MIDI
+
+Show Clavier
+
+Smooth Clavier
+
+Auto Button
+
+Setting
+Hold Number
+Grid Low Pitch
+Clavier Low Pitch
+MIDI Max Pitch
+
+Operations
+
+MIDI
+
+Make Chord (N)
+Make Mode (M)
+
+Play Chords
+Mouse Solo
+MIDI Thru
+MIDI Channel
+
+40
+

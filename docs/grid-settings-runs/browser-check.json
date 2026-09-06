@@ -1,0 +1,96 @@
+{
+  "checks": [
+    {
+      "label": "Defaults preserve the existing registers",
+      "pass": true
+    },
+    {
+      "label": "Apply stays visible at 1280 × 800",
+      "pass": true
+    },
+    {
+      "label": "Draft leaves playing geometry unchanged",
+      "pass": true
+    },
+    {
+      "label": "Cancel discards the draft",
+      "pass": true
+    },
+    {
+      "label": "Invalid interval blocks Apply",
+      "pass": true
+    },
+    {
+      "label": "Apply updates axes and clavier labels",
+      "pass": true
+    },
+    {
+      "label": "5 × 7 hit testing uses the configured grid register",
+      "pass": true
+    },
+    {
+      "label": "Applying layout preserves Drone-held notes",
+      "pass": true
+    },
+    {
+      "label": "Apply does not synthesize a newly mapped pitch at a stationary pointer",
+      "pass": true
+    },
+    {
+      "label": "Next gesture uses new mapping alongside retained notes",
+      "pass": true
+    },
+    {
+      "label": "Unavailable cells do not generate their displayed pitches",
+      "pass": true
+    },
+    {
+      "label": "Capture protects settings and starts Auto Button off",
+      "pass": true
+    },
+    {
+      "label": "Capture uses the configured axes and register",
+      "pass": true
+    },
+    {
+      "label": "Capture rejects pointer pitches above the ceiling",
+      "pass": true
+    },
+    {
+      "label": "Smooth Clavier uses the configured lowest C",
+      "pass": true
+    },
+    {
+      "label": "Save persists the complete grid and range configuration",
+      "pass": true
+    },
+    {
+      "label": "Reload and Open restore saved values",
+      "pass": true
+    },
+    {
+      "label": "Revert restores the saved geometry",
+      "pass": true
+    },
+    {
+      "label": "Settings fit 1600 × 1000",
+      "pass": true
+    },
+    {
+      "label": "Resized modal blocks performance keys even after focus moves",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  }
+}

@@ -1,0 +1,156 @@
+REVIEWS 
+Hip Software's Harmony Grid 
+A newcomer to the Mac music marketplace offers a new—and entertaining— 
+approach to music theory investigation. 
+By John Duesenberry 
+• 
+File 
+Edit 
+Options 
+Operations 
+MIDI 
+2 15S 
+O 
+1 :Chromatic 
+(•) 2 Major 
+O 
+3 Minor 
+O 
+4 Harm Min 
+O 
+5 massiaan • 
+O 
+6 :OctatonK+ 
+O 
+7 Wholeton« 
+O 
+8 :Pantatonic 
+O 
+9 Blues 
+(•) 1 
+: Solo 
+O 
+2 : dom 7 
+O 
+$ 
+j tri 
+O 
+4 Block 
+O 
+5 
+: Mm triad 
+O6:-Mm 
+Q^iaugtri 
+Qö «"»7 
+O 
+9: Mm triad(1)O 0: Mm7 root 
+7 
+O 
+0 Jazz Altare 
+I sustain 11" hold 
+I drone ¡[repeat 
+A Major 
+FIG. 1: A major scale on 2 x 1 grid. 
+A 
+its authors describe it, 
+Harmony Grid 
+is a Macintosh “software 
+instrument” targeted mainly at the musi¬ 
+cally untutored—“hobbyists and ama¬ 
+teurs who never learned much harmony 
+theory, who would learn it if it were 
+more fun than practicing scales.” While 
+it doesn’t fit easily into existing music 
+software categories, the program has at 
+least two functions: it’s a tool/toy for the 
+exploration of some aspects of harmony 
+theory, and it’s a vehicle for live improvi¬ 
+sation. 
+The program presents musical ele¬ 
+ments—scales, modes, and chords—as 
+visual patterns on a two-dimensional 
+graph (the Harmony Grid) as well as on 
+a conventional clavier. You can hear 
+these elements by moving the mouse 
+over the grid or the clavier, or by playing 
+a MIDI keyboard. The tutorial value of 
+this approach is that the grid shape of a 
+given scale or chord type is uniform 
+across all transpositions, as opposed to 
+the multiplicity of spatial and fingering 
+102 
+Electronic Musician 
+October 1989 
+* 
+A*5 
+patterns encountered on musical in¬ 
+struments. 
+VIEWING AND PLAYING SCALES 
+Should the user wish to use the program 
+for purposes other than mouse-driven 
+improvisation, then learning to read the 
+grid is the first order of business. The 
+grid can represent the interval pattern 
+of a given scale or chord in many differ¬ 
+ent ways; the exact way depends on how 
+the user calibrates the X-Y axes of the 
+grid in units of semitones. For example, 
+suppose you want to play with a major 
+scale. You first select this scale from the 
+ten available types (you can also make 
+up and save your own), then set up the 
+grid. Fig. 1 shows an A major scale laid 
+out on a 2 x 1 grid. Moving from left to 
+right you read two semitones per square; 
+moving from bottom to top you read 
+one semitone per square. The members 
+of the scale are circled, with the root of 
+the scale heavily outlined. On the cla¬ 
+vier, small circles appear on each key 
+that is a scale member, again with the 
+roots marked by a dark circle. 
+The grid’s visual pattern is the same in 
+all octaves and remains the same if the 
+scale root is changed. The main benefit 
+of this particular grid is that it shows the 
+whole-step/half-step makeup of the 
+scale clearly in terms of location; there¬ 
+fore, it is useful for viewing most any tra¬ 
+ditional scale or mode. 
+Using a MIDI interface and synth, or 
+the Mac’s internal sound generator, you 
+can play individual notes of the scale in 
+real time by clicking on their squares or 
+clavier keys, or traverse the scale by 
+moving the mouse across the scale notes 
+on the grid or clavier; you can also trans¬ 
+pose the scale or select a new one. There 
+are various other performance options, 
+but the main point is that all such im¬ 
+provisation is restricted to the given 
+scale’s notes. Also, the performance can 
+be rhythmically restricted to trigger only 
+on ticks of the built-in metronome. This 
+recalls the constrained drawing options 
+of many paint programs, which allow 
+artistic klutzes to draw perfectly straight 
+lines. Now musical klutzes can improvise 
+in a key without hitting any wrong notes 
+or making timing errors. 
+VIEWING AND PLAYING CHORDS 
+This program isn’t called Scale Grid, so 
+where’s the harmony? By clicking on 
+one of a group of "buttons,” you can se¬ 
+lect one of ten chord types (again, you 
+can define and save your own). Suppose 
+you select the minor chord type, while 
+remaining within the A major scale. By 
+moving the mouse across the grid or 
+clavier, you find that Harmony Grid at¬ 
+tempts to harmonize each scale degree 
+by building and playing a partial or 
+complete minor triad on that degree. If 
+you trigger the notes B, C#, or F#, you 
+hear the ii, iii, and vi chords of the scale; 
+if you trigger an E, you hear only the 
+fifth E-B. Why? The correct diatonic 

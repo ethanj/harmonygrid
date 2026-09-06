@@ -1,0 +1,32 @@
+{
+  "evidence": "Accelerated logical engine simulation; not wall-clock audio or physical performance acceptance",
+  "runs": [
+    {
+      "scene": "free",
+      "simulatedSeconds": 1200,
+      "frames": 139439,
+      "actions": 1331975,
+      "maximumNotes": 10,
+      "queueOverflows": 0,
+      "lateInputs": 0
+    },
+    {
+      "scene": "quantized",
+      "simulatedSeconds": 1200,
+      "frames": 9599,
+      "actions": 155975,
+      "maximumNotes": 10,
+      "queueOverflows": 0,
+      "lateInputs": 0
+    },
+    {
+      "scene": "multi-retained",
+      "simulatedSeconds": 1200,
+      "frames": 9599,
+      "actions": 116552,
+      "maximumNotes": 35,
+      "queueOverflows": 0,
+      "lateInputs": 0
+    }
+  ]
+}

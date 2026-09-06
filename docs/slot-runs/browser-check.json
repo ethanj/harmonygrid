@@ -1,0 +1,132 @@
+{
+  "checks": [
+    {
+      "label": "Paste before copy is rejected",
+      "pass": true
+    },
+    {
+      "label": "Editor actions fit at 1280 × 800",
+      "pass": true
+    },
+    {
+      "label": "Draft survives slot and tab navigation",
+      "pass": true
+    },
+    {
+      "label": "Draft does not mutate playing slots",
+      "pass": true
+    },
+    {
+      "label": "Cancel discards all drafts",
+      "pass": true
+    },
+    {
+      "label": "Chord clipboard cannot paste into a mode",
+      "pass": true
+    },
+    {
+      "label": "Protected slot cannot rename, edit, or paste but can copy out",
+      "pass": true
+    },
+    {
+      "label": "Invalid draft blocks the full transaction",
+      "pass": true
+    },
+    {
+      "label": "Navigating away does not hide an invalid draft",
+      "pass": true
+    },
+    {
+      "label": "Apply commits both slots with literal names",
+      "pass": true
+    },
+    {
+      "label": "Editing inactive slots leaves playing pattern unchanged",
+      "pass": true
+    },
+    {
+      "label": "Identical patterns retain a single explicit selected slot",
+      "pass": true
+    },
+    {
+      "label": "Editor opens at the explicit selected duplicate",
+      "pass": true
+    },
+    {
+      "label": "Rename-only Apply sends no settings event or reattack",
+      "pass": true
+    },
+    {
+      "label": "Renaming changes the selected slot label",
+      "pass": true
+    },
+    {
+      "label": "Editing selected intervals reaches the audio engine",
+      "pass": true
+    },
+    {
+      "label": "Plain C/V copies the selected chord",
+      "pass": true
+    },
+    {
+      "label": "Playing shortcut cannot replace protected slot",
+      "pass": true
+    },
+    {
+      "label": "Shift+C/V copies the selected mode",
+      "pass": true
+    },
+    {
+      "label": "Caps Lock alone targets modes",
+      "pass": true
+    },
+    {
+      "label": "Shift plus Caps Lock targets chords",
+      "pass": true
+    },
+    {
+      "label": "Command C/V supports pattern copy and paste",
+      "pass": true
+    },
+    {
+      "label": "Text-field Command+C leaves the pattern clipboard unchanged",
+      "pass": true
+    },
+    {
+      "label": "Escape closes editor and restores File availability",
+      "pass": true
+    },
+    {
+      "label": "Save preserves edited patterns and duplicate slot identity",
+      "pass": true
+    },
+    {
+      "label": "Reload and Open restore the exact duplicate slot",
+      "pass": true
+    },
+    {
+      "label": "Revert restores edited intervals and slot identity",
+      "pass": true
+    },
+    {
+      "label": "Compact editor scrolls its content while keeping Apply visible",
+      "pass": true
+    },
+    {
+      "label": "Capture blocks editing and retains Auto Button off by default",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  }
+}

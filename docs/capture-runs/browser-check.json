@@ -1,0 +1,250 @@
+{
+  "checks": [
+    {
+      "label": "OffscreenCanvas renderer starts",
+      "pass": true
+    },
+    {
+      "label": "Capture starts empty above Drone performance",
+      "pass": true
+    },
+    {
+      "label": "Audition limit is unchecked by default",
+      "pass": true
+    },
+    {
+      "label": "Earlier Drone notes continue on entry",
+      "pass": true
+    },
+    {
+      "label": "Real grid clicks collect exact pitches",
+      "pass": true
+    },
+    {
+      "label": "Capturing a Drone pitch causes a new audio attack",
+      "pass": true
+    },
+    {
+      "label": "Removing anchor preserves fixed reference and other selections",
+      "pass": true
+    },
+    {
+      "label": "Releasing older N keeps the M capture open",
+      "pass": true
+    },
+    {
+      "label": "Mode collection retains octave-separated exact pitches",
+      "pass": true
+    },
+    {
+      "label": "Naming releases audition and preserves Drone",
+      "pass": true
+    },
+    {
+      "label": "Protected slot 1 cannot be selected",
+      "pass": true
+    },
+    {
+      "label": "Slot digit then Tab focuses the name",
+      "pass": true
+    },
+    {
+      "label": "Edit pitches resumes draft audition",
+      "pass": true
+    },
+    {
+      "label": "Name and slot survive Edit pitches",
+      "pass": true
+    },
+    {
+      "label": "Replace updates the requested mode slot with literal name text",
+      "pass": true
+    },
+    {
+      "label": "Chord creation keeps negative offsets and octave spacing",
+      "pass": true
+    },
+    {
+      "label": "Cancel from naming preserves the prior chord",
+      "pass": true
+    },
+    {
+      "label": "Empty capture shows the header notice",
+      "pass": true
+    },
+    {
+      "label": "Empty notice disappears after five seconds",
+      "pass": true
+    },
+    {
+      "label": "Forty real selections sustain with no default eviction",
+      "pass": true
+    },
+    {
+      "label": "Enabling the optional limit stops only the oldest eight auditions",
+      "pass": true
+    },
+    {
+      "label": "Long pitch list scrolls",
+      "pass": true
+    },
+    {
+      "label": "Final pitch row is reachable while actions remain fixed",
+      "pass": true
+    },
+    {
+      "label": "Capture fits the larger viewport",
+      "pass": true
+    },
+    {
+      "label": "Capture fits 1280 by 800",
+      "pass": true
+    },
+    {
+      "label": "Reset document restores default no eviction",
+      "pass": true
+    },
+    {
+      "label": "Quick N tap ends cleanly and still shows empty feedback",
+      "pass": true
+    },
+    {
+      "label": "Capture clavier selects raw D flat even with Smooth Clavier enabled",
+      "pass": true
+    },
+    {
+      "label": "Capture Auto Button starts off independently of playing",
+      "pass": true
+    },
+    {
+      "label": "Auto Button captures on cell entry without a held mouse button",
+      "pass": true
+    },
+    {
+      "label": "Continuous capture dragging keeps collection, rendering, and audio alive",
+      "pass": true
+    },
+    {
+      "label": "Continuous capture dragging does not overflow either queue",
+      "pass": true
+    },
+    {
+      "label": "Audio and dragging remain running after sustained input",
+      "pass": true
+    },
+    {
+      "label": "Real AudioWorklet produces nonzero samples",
+      "pass": true
+    },
+    {
+      "label": "Audio samples remain finite",
+      "pass": true
+    },
+    {
+      "label": "No input or renderer queue overflows",
+      "pass": true
+    },
+    {
+      "label": "No uncaught browser errors",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "captureDragDurationMs": 15011,
+  "captureDragMoves": 897,
+  "captureDragEnvironment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 28.330666666666666,
+      "outputTimestamp": {
+        "contextTime": 28.311956333333335,
+        "performanceTime": 28834.80000001192
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 938,
+      "maxDrawMs": 11.399999976158142,
+      "meanDrawMs": 0.22782515983845888,
+      "renderOverflows": 0,
+      "palette": "ready",
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.6787376951823176,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 1347584
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "dragDurationMs": 30010,
+  "dragMoves": 1698,
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 58.464,
+      "outputTimestamp": {
+        "contextTime": 58.445284666666666,
+        "performanceTime": 58968.09999996424
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 2454,
+      "maxDrawMs": 11.399999976158142,
+      "meanDrawMs": 0.26014670088413583,
+      "renderOverflows": 0,
+      "palette": "ready",
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.25363210041459,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 2791424
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  }
+}

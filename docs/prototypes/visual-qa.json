@@ -1,0 +1,9802 @@
+[
+  {
+    "state": "1",
+    "fixture": {
+      "id": "01-playing-surface",
+      "title": "Play",
+      "root": 0,
+      "mode": "Major",
+      "scale": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "axes": [
+        4,
+        3
+      ],
+      "base": 24,
+      "anchor": 60,
+      "played": [
+        60,
+        64,
+        67
+      ],
+      "filtered": [
+        63
+      ],
+      "held": [],
+      "midi": [],
+      "chord": 2,
+      "metro": false,
+      "controls": [],
+      "caption": "Full chord shape · C4–E4–G4 sound; E♭4 is filtered."
+    },
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 33,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 37,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 41,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 30,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 34,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 38,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 27,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 31,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 35,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 24,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 28,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 32,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "documentHeight": 800,
+    "controlOverflow": [],
+    "file": "01-playing-surface.png"
+  },
+  {
+    "state": "2",
+    "fixture": {
+      "id": "02-filtered-chord",
+      "title": "Filter",
+      "root": 0,
+      "mode": "Major",
+      "scale": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "axes": [
+        4,
+        3
+      ],
+      "base": 36,
+      "anchor": 71,
+      "played": [
+        71,
+        74
+      ],
+      "filtered": [
+        75,
+        78
+      ],
+      "held": [],
+      "midi": [],
+      "chord": 2,
+      "metro": true,
+      "controls": [],
+      "caption": "On B4, E♭5 and G♭5 are filtered. The fifth disappears; its position stays visible."
+    },
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 114,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 118,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 122,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 111,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 115,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 119,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 108,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 112,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 116,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 105,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 109,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 113,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "documentHeight": 800,
+    "controlOverflow": [],
+    "file": "02-filtered-chord.png"
+  },
+  {
+    "state": "3",
+    "fixture": {
+      "id": "03-retained-notes",
+      "title": "Retain",
+      "root": 0,
+      "mode": "Natural minor",
+      "scale": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "axes": [
+        2,
+        1
+      ],
+      "base": 48,
+      "anchor": 60,
+      "played": [
+        60,
+        63,
+        67
+      ],
+      "filtered": [
+        64
+      ],
+      "held": [
+        64,
+        71
+      ],
+      "midi": [],
+      "chord": 2,
+      "metro": true,
+      "controls": [
+        "Sustain",
+        "Drone"
+      ],
+      "caption": "E4 is filtered from this chord but retained by Sustain. B4 continues from Drone."
+    },
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      }
+    ],
+    "documentHeight": 800,
+    "controlOverflow": [],
+    "file": "03-retained-notes.png"
+  },
+  {
+    "state": "4",
+    "fixture": {
+      "id": "04-tick-transition",
+      "title": "Timing",
+      "caption": "Static storyboard · Sound and chord display change together on the tick. No between-tick preview."
+    },
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      }
+    ],
+    "keys": [],
+    "documentHeight": 800,
+    "controlOverflow": [],
+    "file": "04-tick-transition.png"
+  },
+  {
+    "state": "5",
+    "fixture": {
+      "id": "05-midi-and-controls",
+      "title": "MIDI",
+      "root": 0,
+      "mode": "Major",
+      "scale": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "axes": [
+        4,
+        3
+      ],
+      "base": 24,
+      "anchor": 76,
+      "played": [
+        67,
+        71,
+        74,
+        76
+      ],
+      "filtered": [
+        70
+      ],
+      "held": [],
+      "midi": [
+        48,
+        52,
+        67
+      ],
+      "chord": 2,
+      "metro": true,
+      "controls": [
+        "Hold"
+      ],
+      "caption": "MIDI input: C3, E3, G4. G4 drives accompaniment; the mouse plays E5 independently."
+    },
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 33,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 37,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 41,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 30,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 34,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 38,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 27,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 31,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 35,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 24,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 28,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 32,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "documentHeight": 800,
+    "controlOverflow": [],
+    "file": "05-midi-and-controls.png"
+  },
+  {
+    "state": "1",
+    "fixture": {
+      "id": "01-playing-surface",
+      "title": "Play",
+      "root": 0,
+      "mode": "Major",
+      "scale": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "axes": [
+        4,
+        3
+      ],
+      "base": 24,
+      "anchor": 60,
+      "played": [
+        60,
+        64,
+        67
+      ],
+      "filtered": [
+        63
+      ],
+      "held": [],
+      "midi": [],
+      "chord": 2,
+      "metro": false,
+      "controls": [],
+      "caption": "Full chord shape · C4–E4–G4 sound; E♭4 is filtered."
+    },
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 105,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 109,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 113,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 33,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 37,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 41,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 30,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 34,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 38,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 27,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 31,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 35,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 24,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 28,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 32,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "documentHeight": 1000,
+    "controlOverflow": [],
+    "file": "1600x1000/01-playing-surface.png"
+  },
+  {
+    "state": "2",
+    "fixture": {
+      "id": "02-filtered-chord",
+      "title": "Filter",
+      "root": 0,
+      "mode": "Major",
+      "scale": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "axes": [
+        4,
+        3
+      ],
+      "base": 36,
+      "anchor": 71,
+      "played": [
+        71,
+        74
+      ],
+      "filtered": [
+        75,
+        78
+      ],
+      "held": [],
+      "midi": [],
+      "chord": 2,
+      "metro": true,
+      "controls": [],
+      "caption": "On B4, E♭5 and G♭5 are filtered. The fifth disappears; its position stays visible."
+    },
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 105,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 109,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 113,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 117,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 121,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 125,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 114,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 118,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 122,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 111,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 115,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 119,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 108,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 112,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 116,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 105,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 109,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 113,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "documentHeight": 1000,
+    "controlOverflow": [],
+    "file": "1600x1000/02-filtered-chord.png"
+  },
+  {
+    "state": "3",
+    "fixture": {
+      "id": "03-retained-notes",
+      "title": "Retain",
+      "root": 0,
+      "mode": "Natural minor",
+      "scale": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "axes": [
+        2,
+        1
+      ],
+      "base": 48,
+      "anchor": 60,
+      "played": [
+        60,
+        63,
+        67
+      ],
+      "filtered": [
+        64
+      ],
+      "held": [
+        64,
+        71
+      ],
+      "midi": [],
+      "chord": 2,
+      "metro": true,
+      "controls": [
+        "Sustain",
+        "Drone"
+      ],
+      "caption": "E4 is filtered from this chord but retained by Sustain. B4 continues from Drone."
+    },
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      }
+    ],
+    "documentHeight": 1000,
+    "controlOverflow": [],
+    "file": "1600x1000/03-retained-notes.png"
+  },
+  {
+    "state": "4",
+    "fixture": {
+      "id": "04-tick-transition",
+      "title": "Timing",
+      "caption": "Static storyboard · Sound and chord display change together on the tick. No between-tick preview."
+    },
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      }
+    ],
+    "keys": [],
+    "documentHeight": 1000,
+    "controlOverflow": [],
+    "file": "1600x1000/04-tick-transition.png"
+  },
+  {
+    "state": "5",
+    "fixture": {
+      "id": "05-midi-and-controls",
+      "title": "MIDI",
+      "root": 0,
+      "mode": "Major",
+      "scale": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "axes": [
+        4,
+        3
+      ],
+      "base": 24,
+      "anchor": 76,
+      "played": [
+        67,
+        71,
+        74,
+        76
+      ],
+      "filtered": [
+        70
+      ],
+      "held": [],
+      "midi": [
+        48,
+        52,
+        67
+      ],
+      "chord": 2,
+      "metro": true,
+      "controls": [
+        "Hold"
+      ],
+      "caption": "MIDI input: C3, E3, G4. G4 drives accompaniment; the mouse plays E5 independently."
+    },
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "outside": [],
+    "cells": [
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 105,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 109,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 113,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 102,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 106,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 110,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 99,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 103,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 107,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 96,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 100,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 104,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 33,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 37,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 41,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 45,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 85,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 89,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 93,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 97,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 101,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 30,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 34,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 38,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 42,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 46,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 86,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 90,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 94,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 98,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 27,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 31,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 35,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 39,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 43,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 47,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 87,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 91,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 95,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 24,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 28,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 32,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 36,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 40,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 44,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 88,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 92,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "keys": [
+      {
+        "pitch": 48,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 50,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 52,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 53,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 55,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 57,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 59,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 60,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 62,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 64,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 65,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 67,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 69,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 71,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 72,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 74,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 76,
+        "sounding": true,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 77,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 79,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 81,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 83,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 84,
+        "sounding": false,
+        "filtered": false,
+        "scale": true
+      },
+      {
+        "pitch": 49,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 51,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 54,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 56,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 58,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 61,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 63,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 66,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 68,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 70,
+        "sounding": false,
+        "filtered": true,
+        "scale": false
+      },
+      {
+        "pitch": 73,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 75,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 78,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 80,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      },
+      {
+        "pitch": 82,
+        "sounding": false,
+        "filtered": false,
+        "scale": false
+      }
+    ],
+    "documentHeight": 1000,
+    "controlOverflow": [],
+    "file": "1600x1000/05-midi-and-controls.png"
+  }
+]

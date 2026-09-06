@@ -1,0 +1,128 @@
+{
+  "checks": [
+    {
+      "label": "default actions fit 1280",
+      "pass": true
+    },
+    {
+      "label": "default no horizontal overflow 1280",
+      "pass": true
+    },
+    {
+      "label": "fifths actions fit 1280",
+      "pass": true
+    },
+    {
+      "label": "fifths no horizontal overflow 1280",
+      "pass": true
+    },
+    {
+      "label": "octaves actions fit 1280",
+      "pass": true
+    },
+    {
+      "label": "octaves no horizontal overflow 1280",
+      "pass": true
+    },
+    {
+      "label": "ceiling actions fit 1280",
+      "pass": true
+    },
+    {
+      "label": "ceiling no horizontal overflow 1280",
+      "pass": true
+    },
+    {
+      "label": "register actions fit 1280",
+      "pass": true
+    },
+    {
+      "label": "register no horizontal overflow 1280",
+      "pass": true
+    },
+    {
+      "label": "invalid actions fit 1280",
+      "pass": true
+    },
+    {
+      "label": "invalid no horizontal overflow 1280",
+      "pass": true
+    },
+    {
+      "label": "default actions fit 1600",
+      "pass": true
+    },
+    {
+      "label": "default no horizontal overflow 1600",
+      "pass": true
+    },
+    {
+      "label": "fifths actions fit 1600",
+      "pass": true
+    },
+    {
+      "label": "fifths no horizontal overflow 1600",
+      "pass": true
+    },
+    {
+      "label": "octaves actions fit 1600",
+      "pass": true
+    },
+    {
+      "label": "octaves no horizontal overflow 1600",
+      "pass": true
+    },
+    {
+      "label": "ceiling actions fit 1600",
+      "pass": true
+    },
+    {
+      "label": "ceiling no horizontal overflow 1600",
+      "pass": true
+    },
+    {
+      "label": "register actions fit 1600",
+      "pass": true
+    },
+    {
+      "label": "register no horizontal overflow 1600",
+      "pass": true
+    },
+    {
+      "label": "invalid actions fit 1600",
+      "pass": true
+    },
+    {
+      "label": "invalid no horizontal overflow 1600",
+      "pass": true
+    },
+    {
+      "label": "Draft preview leaves applied layout unchanged",
+      "pass": true
+    },
+    {
+      "label": "Cancel restores values",
+      "pass": true
+    },
+    {
+      "label": "Apply updates preview baseline",
+      "pass": true
+    },
+    {
+      "label": "Invalid interval blocks Apply",
+      "pass": true
+    },
+    {
+      "label": "Pitch ceiling dims unavailable cells",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  }
+}

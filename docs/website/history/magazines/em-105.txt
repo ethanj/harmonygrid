@@ -1,0 +1,72 @@
+50 may also be used as a MIDI-con-
+trolled multitimbral expander. Two 
+timbres and the rhythm sounds may be 
+used through three MIDI channels; if 
+the guitar is used at the same time it will 
+take precedence over the other timbres 
+as necessary. I wish it would’ve offered 
+eight different timbres like the D-110, 
+but I guess you can’t have everything. 
+DOCUMENTATION 
+We’ve talked about some of the things 
+we like about the GR-50, so this is a good 
+point to bring up our main gripe: the 
+manual. Although most of the informa¬ 
+tion you might want is there, it can be 
+very difficult to find it, and then to un¬ 
+derstand exactly what to do. As with 
+most of today’s feature-packed synths 
+and samplers, programming the unit is 
+so complicated that writing a clear and 
+concise manual is very difficult, though 
+not impossible. 
+When we spoke to Roland, they 
+agreed that the manual could be im¬ 
+proved, and said they are working hard 
+to that end. If you have trouble with 
+Roland’s manual, the best alternative is 
+to get one of the after-market books on 
+the D-110 (as far as we know, no one has 
+a book on the GR-50 yet) . This will give 
+you a good background in program¬ 
+ming and should make Roland’s manual 
+much easier to comprehend. 
+THE CONCLUSION 
+We could go on talking about the GR-
+50 at considerable length, but this 
+should give you a good idea of its capa¬ 
+bilities. The end result is the product of 
+some hard choices, and some compro¬ 
+mises. The unit is not perfect; wired-fret 
+or ultrasonic units may track marginally 
+better, for example, but it’s hard to beat 
+the GR-50’s combination of built-in 
+sounds, MIDI capabilities, and especially 
+the ability to play from your own axe, 
+switching and mixing straight guitar 
+with the synth output. Roland’s latest 
+product opens the door to some very 
+interesting possibilities for the creative 
+guitarist. 
+Formerly technical director for the 
+C.E. Hammond Group in England, Mike 
+Sharp runs a medical electronics company by 
+day but is more often found uniting, playing, 
+or “working” in the studio. 
+Bill Burns is an 
+electronics engineer. Formerly with the BBC in 
+London, he now works as a computer systems 
+designer and consultant. 
+IBM MIDI for LeSS 
+The PC MIDI Card, si 19. 
+Intelligent MIDI interface for IBM PC/XT/AT. 
+MPU-4O1 compatible, of course. MIDI adapter 
+included. 
+Music Quest, Inc. 
+(214) 881-7408 
+2504 Avenue K, Suite 500-492, Plano, TX 75074 
+FOR VALUE, SELHTDON & CUSTOMER SATISFACTION 
+DISCOVER THE PLUS! 
+October 1989 
+Electronic Musician 
+101 

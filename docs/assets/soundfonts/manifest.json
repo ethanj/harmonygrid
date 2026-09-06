@@ -1,0 +1,24 @@
+{
+  "source": "https://github.com/mrbumpy409/GeneralUser-GS",
+  "sourceSha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+  "paletteSha256": "fe90145b20bb24f51200c3f666bf795436f92abc913597c9071cc735b7fe4ce6",
+  "bytes": 2704176,
+  "presets": [
+    {
+      "name": "Grand Piano",
+      "program": 0
+    },
+    {
+      "name": "Tine Electric Piano",
+      "program": 4
+    },
+    {
+      "name": "Vibraphone",
+      "program": 11
+    },
+    {
+      "name": "Tonewheel Organ",
+      "program": 16
+    }
+  ]
+}

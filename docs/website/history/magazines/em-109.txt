@@ -1,0 +1,375 @@
+4 File 
+Edit Options 
+Operations 
+MIDI 
+7 D0
+O 
+1 Chromatic 
+(•) 2 rMajor 
+O 
+3 
+:Minor 
+O 
+4 Harm Min 
+O 
+1 : Solo 
+O 
+6 : -Mm 
+O2: 
+O’: 
+dom 7 
+aug tri 
+(•) 3 
+: maj tri 
+O 
+8 
+: dim 7 
+O4 
+OS: 
+Block 
+O 
+5 
+Mm triadC 1 ) O 
+0 
+Mm triad 
+Mm 
+7 root 
+0*5 
+G 5 te 
+0*6 
+G 6 Q 
+D*7 
+G 7 b r 0*8 
+G 8 te 8
+^ 
+0*9 
+G 9 ^B 
+O 
+5 messiaen 
+O 
+6 :Octatonic4 
+O 
+7 :Wholetone 
+* C 5 
+sYg* 
+5 
+C 6 te 6 
+G*6 
+C 7 te 7^ g#? 
+C 8 
+t 8J ^*8^ C 9 
+F 9 tea< ! 
+A 4 <*5^ F 5 
+C*6 
+F 6 Ta 6 <4 
+F 7 [a 7 rc •5 
+F 8
+A 8 
+ron 
+O 
+8 Pentatonic 
+O 
+9 Blues 
+A*4 
+0 5JT*5 
+A *5 7 6 te*6J A4 
+>6 
+D T' F *7^ A 97 te 
+8J 
+>*8^ A*8 i 9^ te *9' A*9 
+O 
+0 dizz Alter f 0*4 
+G 4 [B 4 
+0*5 
+G 5 te s' 0*6 
+G 6 
+B 6 
+J 0*7 
+G 7 te 7
+A
+0*8 
+G 8 
+B 8' D •9 
+G 9 te 9 J 
+|sustain|| 
+hold 
+C 4 
+-I-— 
+E 4Yg* 
+4J C 5 e s teas 
+C 6 C 
+6^ te*6j C 7 
+E 7jte*7j C 8 te 8^ te*8j C 9 te ’Y**) 
+1 drone || repeat 
+A Ma 
+jor 
+1 
+BBT] 
+1 
+Ji,' ^*4^ F 4^4’ teas' F 5 r 
+5 tea » F » «60 
+17^ F 7 
+x*? F. f 8^ 
+F 9 
+< y 
+A*3 
+D 4) 7*4 
+A*4 te 5^ T*5J A* 5 
+0 6^ F*6J A4 76 
+te 7
+^ 
+F*7^ A *7 te 8 j 
+*8J A *8 te 9) 
+I 
+0*3 
+G 3 te 3' 0*4 
+G 4 
+B 4^ 0*5 
+G 5 8 5' D*6 
+G 6 te 6
+^ 
+D*7 
+G 7 tero 
+»8 
+G 8 (b 
+C 3 t 3^ ^G* 
+3 
+C 4 
+E ? 
+[G*4X
+C 5
+ £ 
+sYasj c 6 te 6jte*6j C 7 
+7 J 
+^*7^ c 8 
+E 8^ ^*8) 
+œ  n 
+256 
+1 1 
+o 
+! 
+.1. 
+1 lu 11 
+1 ° 0 
+1 •^o 
+10 
+1 
+j 0 I 0 
+10 
+I 
+• I Oj 
+FIG. 2: A major scale on 4 x 3 grid. 
+triad is the selected chord type, and F# is 
+triggered. The F# minor triad is out¬ 
+lined on the clavier and the grid. 
+Once you get used to reading the 4x3 
+grid, you can read the interval pattern 
+(up one minor third, right one major 
+third) fairly easily and can distinguish it 
+from the patterns produced by other 
+chord types. The 4x3 grid is useful for 
+representing chords built on thirds (see 
+Hs-4) , and is used extensively in the Har¬ 
+mony Grid manual and reference cards. 
+This chord-building capability expands 
+the possibilities for improvising. One 
+might, for example, select a chord type 
+and trigger chords by playing single 
+notes on a MIDI keyboard, while soloing 
+on the grid with the mouse. 
+PERFORMANCE OPTIONS 
+The programmers have done a good job 
+choosing the combinations of key-
+board/mouse actions that control real¬ 
+time performance parameters such as 
+choice of scale/mode, chord type, trans¬ 
+position, metronome speed, sustain and 
+articulation, and so on, even if (like 
+many other music programs) some of 
+the Mac interface guidelines are vio¬ 
+lated. Since the number of performance 
+é 
+File 
+Edit 
+Options 
+Operations 
+MIDI 
+SWEETWATER SOUND, INC. 
+4821 Bass Road 
+Fort Wayne IN 46808 
+_
+( 2 1 9) 
+4 32-8 1 76 
+Specializing in 
+KURZWEIL 
+/ty•
+O.S-/C. 
+.S’ £ 
+r. ,rr S’ 
+K250 & 1000 Series Sales 
+Upgrades • Modificalions • Support • Phone Instruction 
+Ask for our FREE famous Kurzweil Newsletter 
+FOR THE K250 & RMX: 
+K25O Visual Editing Program for the Macintosh 
+Alternate Resident Rom Based Sound Blocks 
+K25O Sample Network (300 QLS disks @ $5.00 ea.) 
+"Custom" Burned Sound Blocks 
+Upgrade Advice • Miller/Blake Sound Disks 
+i'll 
+We carry other popular 
+brands of MIDI 
+IF 
+equipment, too! 
+E-MU Systems (Emax - Proteus) 
+Oberheim • AKAI • Kurzweil 
+Fostex Recording Equipment • Digidesign 
+MOTU (Performer & Composer) 
+Coda (Finale) • TOA • Ramsa 
+Passport • Opcode • CMS Hard Drives 
+and more!!! 
+Knowledgeable People • (¡real Prices 
+We ship CPS & Federal Express or ..
+. 
+You can receive it TODAY if 
+we ship by major airline! 
+VISA • MASTERCARD • COD • TRADES 
+CALL NOW! 24 Hours a day! 
+SWEETWATER SOUND, INC. 
+4821 Bass Road 
+Fort Wayne IN 46808 
+(219) 432-81 76 
+O 
+1 Chromatic 
+(•) 2 :Ma jor 
+O 
+3 
+:Minor 
+O 
+4 Harm Min 
+O 
+5 :messiaen • 
+O 
+6 :Octatonic+ 
+O 
+7 :Wholetone 
+O 
+8 Pentatonic 
+O 
+9 Blues 
+O 
+° 
+: 
+Altere 
+|sustain|[ hold 
+I drone ¡["repeat 
+A Major 
+4 09 GJ 
+O 
+1 : Solo 
+O 
+2 
+: dom 7 
+O 
+6 
+: -Mm 
+Q 
+7 
+: aug tri 
+O
+3 : ma 
+j tri 
+O 
+8 
+: dim 7 
+(•) 4 : minor 
+O 
+5 : Mm triad 
+O 
+9 
+: Mm triad(l ) O 
+0 : Mm7 root 
+0*5 
+C 5 
+0*4 
+G 5 IB 5 
+E 5 I G*5 
+F I 
+D*6 
+G 6 
+g 
+*6 
+D*8 
+I I 
+.xr 
+F 
+I 
+4 *4 
+D I 
+ft *5 
+4^ 
+B I 
+A*8 
+A *9 
+“Music Dealer Of 
+The Year” 
+Voted by Members Of The 
+Music Industry In The 
+“Third Annual Music 
+& Sound Awards” 
+Respected by musicians, studios & industry 
+professionals alike, Sam Ash is the kind 
+of store you like to deal with: 
+• Helpful, knowledgable musician sales 
+people. 
+• Tremendous selection of instruments, 
+sound A recording equipment, computers 
+and software, MIDI 4 home keyboards ... 
+16 million dolías inventory 
+• Consistently Low Prices! 
+M3 
+D 
+4 
+D*5 
+C I 
+• 
+5 
+E I 
+f
+t *4 
+5 5 
+G 8 
+G 
+V 
+E I 
+’music 
+STORES 
+F 
+I 
+D 5 
+A *6 
+n 
+'4 
+3 
+0*3 
+G 3 
+E 
+3 
+G 4 
+E 4 
+G 5 
+G 6 
+I I 
+E I 
+E 
+I 
+r 
+FIG. 3: Minor triad outlined on clavier and 4 x 3 grid. 
+MUSIC • SOUND 
+COMPUTERS 
+10 Brancha» tn »nd »round Now York City 
+1-800-4-SAM ASH 
+In New York State 
+1-718-347-7757 
+October 1939 
+El«c troaie Musician 
+105 

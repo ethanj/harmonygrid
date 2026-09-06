@@ -1,0 +1,231 @@
+{
+  "checks": [
+    {
+      "label": "normal: audio clock continues throughout sustained dragging",
+      "pass": true
+    },
+    {
+      "label": "normal: finite audio and bounded queues",
+      "pass": true
+    },
+    {
+      "label": "normal: audio and visualization still advance at the end",
+      "pass": true
+    },
+    {
+      "label": "normal: deliberate panic releases every logical note",
+      "pass": true
+    },
+    {
+      "label": "expanded: audio clock continues throughout sustained dragging",
+      "pass": true
+    },
+    {
+      "label": "expanded: finite audio and bounded queues",
+      "pass": true
+    },
+    {
+      "label": "expanded: audio and visualization still advance at the end",
+      "pass": true
+    },
+    {
+      "label": "expanded: deliberate panic releases every logical note",
+      "pass": true
+    },
+    {
+      "label": "retained: audio clock continues throughout sustained dragging",
+      "pass": true
+    },
+    {
+      "label": "retained: finite audio and bounded queues",
+      "pass": true
+    },
+    {
+      "label": "retained: audio and visualization still advance at the end",
+      "pass": true
+    },
+    {
+      "label": "retained: deliberate panic releases every logical note",
+      "pass": true
+    },
+    {
+      "label": "No browser runtime exceptions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "workloads": [
+    {
+      "scene": "normal",
+      "wallSeconds": 60.126,
+      "moves": 3497,
+      "retainedEvents": 13815,
+      "olderEventsReplaced": 0,
+      "drawSamples": 2961,
+      "p50": 0.30000001192092896,
+      "p95": 0.800000011920929,
+      "p99": 1.100000023841858,
+      "maximum": 28.80000001192093,
+      "environment": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 800,
+          "scale": 1
+        },
+        "audio": {
+          "session": 1,
+          "fault": null,
+          "state": "running",
+          "currentTime": 59.95733333333333,
+          "outputTimestamp": {
+            "contextTime": 59.938642,
+            "performanceTime": 60423.39999997616
+          },
+          "sampleRate": 48000,
+          "baseLatency": 0.005333333333333333,
+          "outputLatency": 0.016
+        },
+        "health": {
+          "renderer": "OffscreenCanvas worker",
+          "drawCount": 2961,
+          "maxDrawMs": 28.80000001192093,
+          "meanDrawMs": 0.4380614653264941,
+          "renderOverflows": 0,
+          "palette": "ready",
+          "kind": "health",
+          "queueOverflows": 0,
+          "lateInputs": 0,
+          "voiceSteals": 0,
+          "paletteVoices": 256,
+          "paletteVoiceCapacity": 256,
+          "peak": 0.49512829888905985,
+          "nonFiniteSamples": 0,
+          "duplicateBlocks": 1,
+          "sample": 2863616
+        },
+        "midi": {
+          "lateOutputs": 0,
+          "lastError": null
+        }
+      }
+    },
+    {
+      "scene": "expanded",
+      "wallSeconds": 60.109,
+      "moves": 3519,
+      "retainedEvents": 13969,
+      "olderEventsReplaced": 0,
+      "drawSamples": 3049,
+      "p50": 0.5,
+      "p95": 1.199999988079071,
+      "p99": 1.4000000357627869,
+      "maximum": 2.800000011920929,
+      "environment": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 800,
+          "scale": 1
+        },
+        "audio": {
+          "session": 1,
+          "fault": null,
+          "state": "running",
+          "currentTime": 59.888,
+          "outputTimestamp": {
+            "contextTime": 59.86929766666667,
+            "performanceTime": 60327.19999998808
+          },
+          "sampleRate": 48000,
+          "baseLatency": 0.005333333333333333,
+          "outputLatency": 0.016
+        },
+        "health": {
+          "renderer": "OffscreenCanvas worker",
+          "drawCount": 3049,
+          "maxDrawMs": 2.800000011920929,
+          "meanDrawMs": 0.5884552309653063,
+          "renderOverflows": 0,
+          "palette": "ready",
+          "kind": "health",
+          "queueOverflows": 0,
+          "lateInputs": 0,
+          "voiceSteals": 0,
+          "paletteVoices": 256,
+          "paletteVoiceCapacity": 256,
+          "peak": 0.3629134893368417,
+          "nonFiniteSamples": 0,
+          "duplicateBlocks": 0,
+          "sample": 2863872
+        },
+        "midi": {
+          "lateOutputs": 0,
+          "lastError": null
+        }
+      }
+    },
+    {
+      "scene": "retained",
+      "wallSeconds": 60.033,
+      "moves": 3528,
+      "retainedEvents": 7667,
+      "olderEventsReplaced": 0,
+      "drawSamples": 241,
+      "p50": 0.5,
+      "p95": 1.100000023841858,
+      "p99": 1.699999988079071,
+      "maximum": 2.299999952316284,
+      "environment": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+        "viewport": {
+          "width": 1280,
+          "height": 800,
+          "scale": 1
+        },
+        "audio": {
+          "session": 1,
+          "fault": null,
+          "state": "running",
+          "currentTime": 59.89333333333333,
+          "outputTimestamp": {
+            "contextTime": 59.874626,
+            "performanceTime": 60389.80000001192
+          },
+          "sampleRate": 48000,
+          "baseLatency": 0.005333333333333333,
+          "outputLatency": 0.016
+        },
+        "health": {
+          "renderer": "OffscreenCanvas worker",
+          "drawCount": 241,
+          "maxDrawMs": 2.299999952316284,
+          "meanDrawMs": 0.538589210678433,
+          "renderOverflows": 0,
+          "palette": "ready",
+          "kind": "health",
+          "queueOverflows": 0,
+          "lateInputs": 0,
+          "voiceSteals": 0,
+          "paletteVoices": 25,
+          "paletteVoiceCapacity": 256,
+          "peak": 0.22127161736588766,
+          "nonFiniteSamples": 0,
+          "duplicateBlocks": 0,
+          "sample": 2863872
+        },
+        "midi": {
+          "lateOutputs": 0,
+          "lastError": null
+        }
+      }
+    }
+  ]
+}

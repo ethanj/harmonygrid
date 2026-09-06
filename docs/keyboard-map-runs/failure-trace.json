@@ -1,0 +1,31 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": null,
+    "health": {
+      "renderer": "OffscreenCanvas worker"
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "dropped": 0,
+  "retention": "most recent events",
+  "capacity": 20000,
+  "events": [
+    {
+      "kind": "focus",
+      "at": 64.89999997615814
+    },
+    {
+      "kind": "focus",
+      "at": 64.89999997615814
+    }
+  ]
+}

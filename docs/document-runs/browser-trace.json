@@ -1,0 +1,965 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1600,
+      "height": 1000,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 2.384,
+      "outputTimestamp": {
+        "contextTime": 2.3652936666666666,
+        "performanceTime": 2653.800000011921
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 23,
+      "maxDrawMs": 2.300000011920929,
+      "meanDrawMs": 0.3739130445148634,
+      "renderOverflows": 0,
+      "palette": "ready",
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 96512
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  },
+  "dropped": 0,
+  "retention": "most recent events",
+  "capacity": 20000,
+  "events": [
+    {
+      "kind": "focus",
+      "at": 10.900000035762787
+    },
+    {
+      "kind": "draw",
+      "duration": 2.300000011920929,
+      "at": 1788681653149.4001,
+      "drawCount": 1,
+      "totalDuration": 2.300000011920929,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 1,
+      "sent": 56.5,
+      "input": {
+        "type": "document",
+        "settings": {
+          "variations": {
+            "multiMidi": false,
+            "repeatDrone": "off",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": true,
+            "refreshSustainAge": false
+          },
+          "captureHoldNumber": 32,
+          "maxPitch": 127,
+          "chord": [
+            0,
+            4,
+            12
+          ],
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
+          "root": 0,
+          "tempo": 240,
+          "holdNumber": 32,
+          "mouseChannel": 0,
+          "midiChannel": 0,
+          "velocity": 96,
+          "captureLimit": false,
+          "metronome": false,
+          "mouseSolo": false,
+          "playChords": true,
+          "setsRoot": false
+        }
+      }
+    },
+    {
+      "kind": "draw",
+      "eventId": 0,
+      "sample": 0,
+      "duration": 0.2999999523162842,
+      "at": 1788681653206.6,
+      "drawCount": 2,
+      "totalDuration": 2.599999964237213,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "receipt",
+      "sample": 256
+    },
+    {
+      "kind": "input",
+      "id": 2,
+      "sent": 171.9000000357628,
+      "input": {
+        "type": "settings",
+        "settings": {
+          "chord": [
+            0,
+            3,
+            4,
+            7
+          ]
+        }
+      }
+    },
+    {
+      "kind": "input",
+      "id": 3,
+      "sent": 187.4000000357628,
+      "input": {
+        "type": "pointer",
+        "pitch": 60,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 2,
+      "sent": 171.9000000357628,
+      "sample": 256
+    },
+    {
+      "kind": "commit",
+      "eventId": 3,
+      "sample": 256,
+      "received": 187.9000000357628,
+      "target": 187.9000000357628,
+      "actions": []
+    },
+    {
+      "kind": "commit",
+      "eventId": 4,
+      "sample": 256,
+      "received": 187.9000000357628,
+      "target": 187.9000000357628,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 256
+    },
+    {
+      "kind": "receipt",
+      "id": 3,
+      "sent": 187.4000000357628,
+      "sample": 512
+    },
+    {
+      "kind": "draw",
+      "eventId": 4,
+      "sample": 256,
+      "duration": 0.20000004768371582,
+      "at": 1788681653341.3,
+      "drawCount": 3,
+      "totalDuration": 2.800000011920929,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 5,
+      "sample": 512,
+      "received": 286.7000000476837,
+      "target": 296.5666667024295,
+      "actions": [
+        {
+          "pitch": 60,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 512,
+          "eventId": 5
+        },
+        {
+          "pitch": 64,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 512,
+          "eventId": 5
+        },
+        {
+          "pitch": 67,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 512,
+          "eventId": 5
+        }
+      ]
+    },
+    {
+      "kind": "draw",
+      "eventId": 5,
+      "sample": 512,
+      "duration": 0.9000000357627869,
+      "at": 1788681653441.5,
+      "drawCount": 4,
+      "totalDuration": 3.700000047683716,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 4,
+      "sent": 343.5,
+      "input": {
+        "type": "control",
+        "control": "drone",
+        "active": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 4,
+      "sent": 343.5,
+      "sample": 3328
+    },
+    {
+      "kind": "commit",
+      "eventId": 6,
+      "sample": 3328,
+      "received": 354.9000000357628,
+      "target": 357.8396666785876,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 6,
+      "sample": 3328,
+      "duration": 0.30000001192092896,
+      "at": 1788681653507.4001,
+      "drawCount": 5,
+      "totalDuration": 4.000000059604645,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 7,
+      "sample": 12256,
+      "received": 526.1000000238419,
+      "target": 543.8266666785877,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 7,
+      "sample": 12256,
+      "duration": 0.30000001192092896,
+      "at": 1788681653690.7,
+      "drawCount": 6,
+      "totalDuration": 4.300000071525574,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 5,
+      "sent": 776.9000000357628,
+      "input": {
+        "type": "document",
+        "settings": {
+          "variations": {
+            "multiMidi": false,
+            "repeatDrone": "off",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": true,
+            "refreshSustainAge": false
+          },
+          "captureHoldNumber": 32,
+          "maxPitch": 127,
+          "chord": [
+            0,
+            3,
+            4,
+            7
+          ],
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
+          "root": 2,
+          "tempo": 300,
+          "holdNumber": 32,
+          "mouseChannel": 0,
+          "midiChannel": 0,
+          "velocity": 96,
+          "captureLimit": false,
+          "metronome": false,
+          "mouseSolo": false,
+          "playChords": true,
+          "setsRoot": false
+        }
+      }
+    },
+    {
+      "kind": "commit",
+      "eventId": 8,
+      "sample": 24256,
+      "received": 778,
+      "target": 793.874,
+      "actions": []
+    },
+    {
+      "kind": "receipt",
+      "id": 5,
+      "sent": 776.9000000357628,
+      "sample": 24320
+    },
+    {
+      "kind": "commit",
+      "eventId": 10,
+      "sample": 24320,
+      "received": 782.4000000357628,
+      "target": 795.1660000119209,
+      "actions": [
+        {
+          "pitch": 60,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 24320,
+          "eventId": 10
+        },
+        {
+          "pitch": 64,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 24320,
+          "eventId": 10
+        },
+        {
+          "pitch": 67,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 24320,
+          "eventId": 10
+        }
+      ]
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.20921889077544972,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 24320
+    },
+    {
+      "kind": "draw",
+      "eventId": 7,
+      "sample": 12256,
+      "duration": 0.30000001192092896,
+      "at": 1788681653923.8,
+      "drawCount": 7,
+      "totalDuration": 4.600000083446503,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "draw",
+      "eventId": 10,
+      "sample": 24320,
+      "duration": 0.19999998807907104,
+      "at": 1788681653939.6,
+      "drawCount": 8,
+      "totalDuration": 4.800000071525574,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 6,
+      "sent": 838,
+      "input": {
+        "type": "pointer",
+        "pitch": 60,
+        "down": true,
+        "strike": false
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 6,
+      "sent": 838,
+      "sample": 27136
+    },
+    {
+      "kind": "commit",
+      "eventId": 11,
+      "sample": 27136,
+      "received": 840.8000000119209,
+      "target": 853.8760000000001,
+      "actions": [
+        {
+          "pitch": 64,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 27136,
+          "eventId": 11
+        },
+        {
+          "pitch": 67,
+          "channel": 0,
+          "velocity": 96,
+          "type": "on",
+          "sample": 27136,
+          "eventId": 11
+        }
+      ]
+    },
+    {
+      "kind": "draw",
+      "eventId": 11,
+      "sample": 27136,
+      "duration": 0.19999998807907104,
+      "at": 1788681653991.2,
+      "drawCount": 9,
+      "totalDuration": 5.000000059604645,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 7,
+      "sent": 890.7000000476837,
+      "input": {
+        "type": "control",
+        "control": "drone",
+        "active": true
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 7,
+      "sent": 890.7000000476837,
+      "sample": 29696
+    },
+    {
+      "kind": "commit",
+      "eventId": 12,
+      "sample": 29696,
+      "received": 904.4000000357628,
+      "target": 907.2336667143504,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 12,
+      "sample": 29696,
+      "duration": 0.30000001192092896,
+      "at": 1788681654057.2,
+      "drawCount": 10,
+      "totalDuration": 5.300000071525574,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 13,
+      "sample": 33920,
+      "received": 979.4000000357628,
+      "target": 995.2516667143504,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 13,
+      "sample": 33920,
+      "duration": 0.19999998807907104,
+      "at": 1788681654141,
+      "drawCount": 11,
+      "totalDuration": 5.500000059604645,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 8,
+      "sent": 1056.5,
+      "input": {
+        "type": "document",
+        "settings": {
+          "variations": {
+            "multiMidi": false,
+            "repeatDrone": "off",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": true,
+            "refreshSustainAge": false
+          },
+          "captureHoldNumber": 32,
+          "maxPitch": 127,
+          "chord": [
+            0,
+            3,
+            4,
+            7
+          ],
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
+          "root": 2,
+          "tempo": 300,
+          "holdNumber": 32,
+          "mouseChannel": 0,
+          "midiChannel": 0,
+          "velocity": 96,
+          "captureLimit": false,
+          "metronome": false,
+          "mouseSolo": false,
+          "playChords": true,
+          "setsRoot": false
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 8,
+      "sent": 1056.5,
+      "sample": 37632
+    },
+    {
+      "kind": "draw",
+      "eventId": 13,
+      "sample": 33920,
+      "duration": 0.30000001192092896,
+      "at": 1788681654208,
+      "drawCount": 12,
+      "totalDuration": 5.800000071525574,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 15,
+      "sample": 37632,
+      "received": 1072.300000011921,
+      "target": 1072.5113333452543,
+      "actions": [
+        {
+          "pitch": 64,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 37632,
+          "eventId": 15
+        },
+        {
+          "pitch": 67,
+          "channel": 0,
+          "velocity": 96,
+          "type": "off",
+          "sample": 37632,
+          "eventId": 15
+        }
+      ]
+    },
+    {
+      "kind": "draw",
+      "eventId": 15,
+      "sample": 37632,
+      "duration": 0.30000001192092896,
+      "at": 1788681654223.7,
+      "drawCount": 13,
+      "totalDuration": 6.100000083446503,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 16,
+      "sample": 47232,
+      "received": 1271.5,
+      "target": 1272.5710000476838,
+      "actions": []
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0.1418474286550474,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 48384
+    },
+    {
+      "kind": "draw",
+      "eventId": 16,
+      "sample": 47232,
+      "duration": 0.19999998807907104,
+      "at": 1788681654423.2,
+      "drawCount": 14,
+      "totalDuration": 6.300000071525574,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 17,
+      "sample": 56832,
+      "received": 1459.300000011921,
+      "target": 1472.5760000476837,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 17,
+      "sample": 56832,
+      "duration": 0.19999998807907104,
+      "at": 1788681654624,
+      "drawCount": 15,
+      "totalDuration": 6.500000059604645,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 18,
+      "sample": 66432,
+      "received": 1672.1000000238419,
+      "target": 1672.5660000476837,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 18,
+      "sample": 66432,
+      "duration": 0.19999998807907104,
+      "at": 1788681654824.5,
+      "drawCount": 16,
+      "totalDuration": 6.700000047683716,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 72448
+    },
+    {
+      "kind": "commit",
+      "eventId": 19,
+      "sample": 76032,
+      "received": 1871.800000011921,
+      "target": 1872.5063333452545,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 19,
+      "sample": 76032,
+      "duration": 0.10000002384185791,
+      "at": 1788681655024.5,
+      "drawCount": 17,
+      "totalDuration": 6.800000071525574,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 9,
+      "sent": 1988.7000000476837,
+      "input": {
+        "type": "document",
+        "settings": {
+          "variations": {
+            "multiMidi": false,
+            "repeatDrone": "off",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": true,
+            "refreshSustainAge": false
+          },
+          "captureHoldNumber": 32,
+          "maxPitch": 127,
+          "chord": [
+            0,
+            3,
+            4,
+            7
+          ],
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
+          "root": 0,
+          "tempo": 240,
+          "holdNumber": 32,
+          "mouseChannel": 0,
+          "midiChannel": 0,
+          "velocity": 96,
+          "captureLimit": false,
+          "metronome": false,
+          "mouseSolo": false,
+          "playChords": true,
+          "setsRoot": false
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 9,
+      "sent": 1988.7000000476837,
+      "sample": 82432
+    },
+    {
+      "kind": "input",
+      "id": 10,
+      "sent": 2005.6000000238419,
+      "input": {
+        "type": "release"
+      }
+    },
+    {
+      "kind": "draw",
+      "eventId": 19,
+      "sample": 76032,
+      "duration": 0.19999998807907104,
+      "at": 1788681655140.7,
+      "drawCount": 18,
+      "totalDuration": 7.000000059604645,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 21,
+      "sample": 82432,
+      "received": 2020.7000000476837,
+      "target": 2005.907333381017,
+      "actions": []
+    },
+    {
+      "kind": "receipt",
+      "id": 10,
+      "sent": 2005.6000000238419,
+      "sample": 83200
+    },
+    {
+      "kind": "commit",
+      "eventId": 22,
+      "sample": 83200,
+      "received": 2020.7000000476837,
+      "target": 2021.907333381017,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 22,
+      "sample": 83200,
+      "duration": 0.19999998807907104,
+      "at": 1788681655172.9001,
+      "drawCount": 19,
+      "totalDuration": 7.200000047683716,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "input",
+      "id": 11,
+      "sent": 2204.400000035763,
+      "input": {
+        "type": "document",
+        "settings": {
+          "variations": {
+            "multiMidi": false,
+            "repeatDrone": "off",
+            "sustainRetrigger": false,
+            "retainAcrossScale": true,
+            "shortInput": "fullTick",
+            "sustainLimit": true,
+            "refreshSustainAge": false
+          },
+          "captureHoldNumber": 32,
+          "maxPitch": 127,
+          "chord": [
+            0,
+            3,
+            4,
+            7
+          ],
+          "mode": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
+          "root": 0,
+          "tempo": 240,
+          "holdNumber": 32,
+          "mouseChannel": 0,
+          "midiChannel": 0,
+          "velocity": 96,
+          "captureLimit": false,
+          "metronome": false,
+          "mouseSolo": false,
+          "playChords": true,
+          "setsRoot": false
+        }
+      }
+    },
+    {
+      "kind": "receipt",
+      "id": 11,
+      "sent": 2204.400000035763,
+      "sample": 92672
+    },
+    {
+      "kind": "draw",
+      "eventId": 22,
+      "sample": 83200,
+      "duration": 0.19999998807907104,
+      "at": 1788681655356.5,
+      "drawCount": 20,
+      "totalDuration": 7.400000035762787,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "commit",
+      "eventId": 24,
+      "sample": 92672,
+      "received": 2220.800000011921,
+      "target": 2219.2203333333337,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 24,
+      "sample": 92672,
+      "duration": 0.20000004768371582,
+      "at": 1788681655373.3,
+      "drawCount": 21,
+      "totalDuration": 7.600000083446503,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "paletteVoices": 0,
+      "paletteVoiceCapacity": 256,
+      "peak": 0,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 96512
+    },
+    {
+      "kind": "commit",
+      "eventId": 25,
+      "sample": 104672,
+      "received": 2451.300000011921,
+      "target": 2469.1456666905083,
+      "actions": []
+    },
+    {
+      "kind": "draw",
+      "eventId": 24,
+      "sample": 92672,
+      "duration": 0.8999999761581421,
+      "at": 1788681655591.9001,
+      "drawCount": 22,
+      "totalDuration": 8.500000059604645,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    },
+    {
+      "kind": "draw",
+      "eventId": 25,
+      "sample": 104672,
+      "duration": 0.09999996423721313,
+      "at": 1788681655607.1,
+      "drawCount": 23,
+      "totalDuration": 8.600000023841858,
+      "maxDuration": 2.300000011920929,
+      "overflow": 0
+    }
+  ]
+}

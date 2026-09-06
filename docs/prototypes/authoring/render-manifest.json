@@ -1,0 +1,146 @@
+{
+  "renderer": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "version": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "deviceScaleFactor": 1,
+  "viewportNote": "1280x800 review baseline and 1600x1000 comparison; neither measures the user display.",
+  "images": [
+    {
+      "file": "07-collect-chord.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 216926
+    },
+    {
+      "file": "08-name-chord.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 168246
+    },
+    {
+      "file": "09-collect-mode.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 222143
+    },
+    {
+      "file": "10-edit-slots.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 90829
+    },
+    {
+      "file": "11-save-document.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 159147
+    },
+    {
+      "file": "12-unsaved-changes.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 181652
+    },
+    {
+      "file": "08b-name-mode.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 172652
+    },
+    {
+      "file": "10b-edit-modes.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 91971
+    },
+    {
+      "file": "11b-open-document.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 163986
+    },
+    {
+      "file": "12b-revert-document.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 177577
+    },
+    {
+      "file": "12c-many-changes.png",
+      "width": 1280,
+      "height": 800,
+      "bytes": 193514
+    },
+    {
+      "file": "1600x1000/07-collect-chord.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 174508
+    },
+    {
+      "file": "1600x1000/08-name-chord.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 196532
+    },
+    {
+      "file": "1600x1000/09-collect-mode.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 184695
+    },
+    {
+      "file": "1600x1000/10-edit-slots.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 95189
+    },
+    {
+      "file": "1600x1000/11-save-document.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 202274
+    },
+    {
+      "file": "1600x1000/12-unsaved-changes.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 222073
+    },
+    {
+      "file": "1600x1000/08b-name-mode.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 203666
+    },
+    {
+      "file": "1600x1000/10b-edit-modes.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 96699
+    },
+    {
+      "file": "1600x1000/11b-open-document.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 203301
+    },
+    {
+      "file": "1600x1000/12b-revert-document.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 226650
+    },
+    {
+      "file": "1600x1000/12c-many-changes.png",
+      "width": 1600,
+      "height": 1000,
+      "bytes": 233620
+    }
+  ]
+}

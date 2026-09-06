@@ -1,0 +1,112 @@
+{
+  "checks": [
+    {
+      "label": "OffscreenCanvas renderer starts",
+      "pass": true
+    },
+    {
+      "label": "Normal playing starts with Auto Button on",
+      "pass": true
+    },
+    {
+      "label": "N capture starts with Auto Button off",
+      "pass": true
+    },
+    {
+      "label": "Hovering does not select a pitch with capture Auto Button off",
+      "pass": true
+    },
+    {
+      "label": "Clicking still selects a pitch",
+      "pass": true
+    },
+    {
+      "label": "Explicitly enabling capture Auto Button permits hover selection",
+      "pass": true
+    },
+    {
+      "label": "Chord to mode handoff preserves the capture-local choice",
+      "pass": true
+    },
+    {
+      "label": "Edit pitches preserves the capture-local choice",
+      "pass": true
+    },
+    {
+      "label": "Cancel restores normal playing Auto Button on",
+      "pass": true
+    },
+    {
+      "label": "New mode capture starts off even after enabling it in the previous capture",
+      "pass": true
+    },
+    {
+      "label": "Normal playing can independently turn Auto Button off",
+      "pass": true
+    },
+    {
+      "label": "Saving a capture restores normal playing Auto Button off",
+      "pass": true
+    },
+    {
+      "label": "M keyboard capture also starts off",
+      "pass": true
+    },
+    {
+      "label": "Empty completion preserves normal playing Auto Button off",
+      "pass": true
+    },
+    {
+      "label": "No uncaught browser errors",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/152.0.7977.76",
+    "revision": "@0d89dfa2dd7c1ec4b8a14b9f303f887bb63b6174",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "jsVersion": "15.2.124.19"
+  },
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1280,
+      "height": 800,
+      "scale": 1
+    },
+    "audio": {
+      "session": 1,
+      "fault": null,
+      "state": "running",
+      "currentTime": 1.504,
+      "outputTimestamp": {
+        "contextTime": 1.4853046666666665,
+        "performanceTime": 1972.0999999642372
+      },
+      "sampleRate": 48000,
+      "baseLatency": 0.005333333333333333,
+      "outputLatency": 0.016
+    },
+    "health": {
+      "renderer": "OffscreenCanvas worker",
+      "drawCount": 32,
+      "maxDrawMs": 10.300000011920929,
+      "meanDrawMs": 0.6374999992549419,
+      "renderOverflows": 0,
+      "kind": "health",
+      "queueOverflows": 0,
+      "lateInputs": 0,
+      "voiceSteals": 0,
+      "peak": 0.14285813641056666,
+      "nonFiniteSamples": 0,
+      "duplicateBlocks": 0,
+      "sample": 48128
+    },
+    "midi": {
+      "lateOutputs": 0,
+      "lastError": null
+    }
+  }
+}
