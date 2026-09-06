@@ -1,0 +1,8 @@
+node_modules/
+docs-internal/
+.DS_Store
+
+.herenow/
+
+dist/
+docs/

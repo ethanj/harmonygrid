@@ -1,0 +1,11 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {SoundBankLoader} from 'spessasynth_core';
+const source=new URL('./GeneralUser-GS.sf2',import.meta.url),bytes=await readFile(source);
+const bank=SoundBankLoader.fromArrayBuffer(bytes.buffer.slice(bytes.byteOffset,bytes.byteOffset+bytes.byteLength));
+const programs=[0,4,11,16];
+console.log(bank.presets.slice(0,3).map(p=>({name:p.name,program:p.program,bankMSB:p.bankMSB,bankLSB:p.bankLSB,isGMGSDrum:p.isGMGSDrum})));
+for(const p of [...bank.presets])if(p.bankMSB!==0||p.bankLSB!==0||!programs.includes(p.program)||p.isGMGSDrum)bank.deletePreset(p);
+bank.removeUnusedElements();const result=Buffer.from(bank.writeSF2());
+await writeFile(new URL('./harmony-palette.sf2',import.meta.url),result);
+await writeFile(new URL('./manifest.json',import.meta.url),JSON.stringify({source:'https://github.com/mrbumpy409/GeneralUser-GS',sourceSha256:createHash('sha256').update(bytes).digest('hex'),paletteSha256:createHash('sha256').update(result).digest('hex'),bytes:result.length,presets:bank.presets.map(p=>({name:p.name,program:p.program}))},null,2)+'\n');
