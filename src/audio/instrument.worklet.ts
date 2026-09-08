@@ -9,8 +9,8 @@ declare const currentFrame:number;
 declare class AudioWorkletProcessor {port:MessagePort;constructor();}
 declare function registerProcessor(name:string,processor:typeof AudioWorkletProcessor):void;
 
-// Shared output gain; peak control preserves waveform shape below its ceiling.
-const outputBoost=4;
+// Leave more headroom for overlapping attacks before the peak limiter.
+const outputBoost=3;
 
 class Instrument extends AudioWorkletProcessor {
   private engine:PerformanceEngine;
@@ -66,9 +66,9 @@ class Instrument extends AudioWorkletProcessor {
       this.palette.render(this.lastOutput,this.right,offset,end-offset);
       for(;offset<end;offset++){
         const fallback=this.voices.sample();
-        let left=(this.lastOutput[offset]+fallback)*outputBoost,right=(this.right[offset]+fallback)*outputBoost;
-        const gain=this.outputLevel.scale(left,right);left*=gain;right*=gain;
-        this.peak=Math.max(this.peak,Math.abs(left),Math.abs(right));
+        // Average the sampled stereo signal before mixing so pitches stay centered.
+        const mono=((this.lastOutput[offset]+this.right[offset])*.5+fallback)*outputBoost;
+        const left=mono,right=mono;
         if(!Number.isFinite(left)||!Number.isFinite(right))this.nonFiniteSamples++;
         this.lastOutput[offset]=Number.isFinite(left)?left:0;this.right[offset]=Number.isFinite(right)?right:0;
       }
@@ -80,7 +80,9 @@ class Instrument extends AudioWorkletProcessor {
         if(action.type==='on'&&!this.palette.on(this.sound,action.pitch,action.velocity,action.channel))this.voices.on(action.pitch,action.velocity,action.channel);
       }
     }
-    render(length);output[0].set(this.lastOutput);if(output[1])output[1].set(this.right);
+    render(length);this.outputLevel.process(this.lastOutput,this.right);
+    for(let i=0;i<length;i++)this.peak=Math.max(this.peak,Math.abs(this.lastOutput[i]),Math.abs(this.right[i]));
+    output[0].set(this.lastOutput);if(output[1])output[1].set(this.right);
     if(frames.length)this.port.postMessage({kind:'frames',frames});
     if(currentFrame>=this.nextHealth){this.port.postMessage({kind:'health',queueOverflows:this.engine.queueOverflows,lateInputs:this.engine.lateInputs,voiceSteals:this.voices.steals,paletteVoices:this.palette.voiceCount,paletteVoiceCapacity:256,peak:this.peak,nonFiniteSamples:this.nonFiniteSamples,duplicateBlocks:this.duplicateBlocks,sample:currentFrame});this.peak=0;this.nextHealth=currentFrame+Math.round(sampleRate/2);}
     this.lastBlock=currentFrame;

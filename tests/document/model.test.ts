@@ -3,7 +3,7 @@ import {freshDocument,parseDocument,serializeDocument,changes,MAX_FILE_BYTES} fr
 import {readFile} from '../../src/document/files';
 import {chords} from '../../src/fixtures/instruments';
 it('round-trips captured intervals, all settings and layout without live latches or device identities',()=>{
-  const doc=freshDocument();doc.name='Open <voicings>';doc.chords[5]={name:'Open',notes:[-12,4,12]};doc.modes[5]={name:'Colors',notes:[1,4,9]};doc.settings.chord=[-12,4,12];doc.settings.captureLimit=true;doc.settings.tempo=360;doc.surface.autoButton=false;doc.surface.axes=[2,3];doc.sound='pluck';
+  const doc=freshDocument();doc.name='Open <voicings>';doc.chords[5]={name:'Open',notes:[-12,4,12]};doc.modes[5]={name:'Colors',notes:[1,4,9]};doc.settings.chord=[-12,4,12];doc.settings.captureLimit=true;doc.settings.tempo=360;doc.surface.autoButton=true;doc.surface.axes=[2,3];doc.sound='pluck';
   const loaded=parseDocument(serializeDocument(doc));expect(loaded).toEqual(doc);
   expect(Object.keys(loaded)).toEqual(['format','version','outputs','name','chords','modes','settings','sound','surface']);
   expect('controls' in loaded).toBe(false);
@@ -22,9 +22,9 @@ it('rejects malformed and oversized files',async()=>{
   await expect(readFile(new File([' '.repeat(MAX_FILE_BYTES+1)],'large.json'))).rejects.toThrow('1 MiB');
 });
 it('tracks reverted values as clean and reports each changed slot and setting',()=>{
-  const old=freshDocument(),doc=structuredClone(old);doc.chords[5]={name:'Open',notes:[0,12]};doc.settings.tempo=360;doc.surface.autoButton=false;
+  const old=freshDocument(),doc=structuredClone(old);doc.chords[5]={name:'Open',notes:[0,12]};doc.settings.tempo=360;doc.surface.autoButton=true;
   expect(changes(old,doc)).toEqual(['Chord 6 changed to Open','Tempo changed to 360 ticks / min','Auto Button changed']);
-  doc.chords[5]=old.chords[5];doc.settings.tempo=240;doc.surface.autoButton=true;expect(changes(old,doc)).toEqual([]);
+  doc.chords[5]=old.chords[5];doc.settings.tempo=240;doc.surface.autoButton=false;expect(changes(old,doc)).toEqual([]);
 });
 
 it('migrates legacy performance fields and validates the new saved policies',()=>{

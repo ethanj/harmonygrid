@@ -12,7 +12,7 @@ export interface InstrumentDocument {
 }
 export const MAX_FILE_BYTES=1024*1024;
 const factoryChords=structuredClone(chords),factoryModes=structuredClone(modes);
-export const freshDocument=():InstrumentDocument=>({format:'harmony-grid',version:1,outputs:defaultOutputs(),name:'Untitled instrument',chords:structuredClone(factoryChords),modes:structuredClone(factoryModes),settings:defaults(),sound:'organ',surface:{autoButton:true,smoothClavier:false,showClavier:true,axes:[4,3],thru:false}});
+export const freshDocument=():InstrumentDocument=>({format:'harmony-grid',version:1,outputs:defaultOutputs(),name:'Untitled instrument',chords:structuredClone(factoryChords),modes:structuredClone(factoryModes),settings:defaults(),sound:'organ',surface:{autoButton:false,smoothClavier:false,showClavier:true,axes:[4,3],thru:false}});
 const fail=(message:string):never=>{throw Error(message);};
 function object(value:unknown,keys:string[],label:string,optional:string[]=[]):Record<string,unknown>{
   if(!value||typeof value!=='object'||Array.isArray(value))fail(`Invalid ${label}.`);

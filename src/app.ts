@@ -41,7 +41,7 @@ let downloadedPalette:ArrayBuffer|null=null;
 let paletteBytes=fetchPalette().then(bytes=>downloadedPalette=bytes);
 let paletteReady:(value:boolean)=>void=()=>{};
 let audioFault:string|null=null,audioSession=0,stopping=false;
-let settings=defaults(),current:Snapshot|null=null,lastPitch=60,auto=true,smooth=false,showPiano=true;
+let settings=defaults(),current:Snapshot|null=null,lastPitch=60,auto=false,smooth=false,showPiano=true;
 const scene=new URLSearchParams(location.search).get('scene');
 const benchmarkRows=scene==='normal'?12:scene==='expanded'?16:null;
 const benchmarkColumns=scene==='normal'?16:scene==='expanded'?24:18;

@@ -109,7 +109,7 @@ it('checkpoints include queued settings between ticks without releasing notes or
 });
 
 
-it('keeps a default-velocity solo note audible and dense chords bounded',async()=>{
+it.each([24,64,128])('keeps a solo note audible and %i simultaneous notes bounded through repeated attacks',async noteCount=>{
   const {instance}=await processor(48000);
   instance.port.onmessage({data:{input:{type:'settings',settings:{chord:[0]}}}});
   instance.port.onmessage({data:{input:{type:'pointer',pitch:60,down:true}}});
@@ -120,11 +120,28 @@ it('keeps a default-velocity solo note audible and dense chords bounded',async()
     for(const sample of output[0][0]){energy+=sample*sample;count++;}
   }
   const rms=Math.sqrt(energy/count);
-  expect(rms).toBeGreaterThan(.18);expect(rms).toBeLessThan(.23);
-  instance.port.onmessage({data:{input:{type:'settings',settings:{chord:Array.from({length:24},(_,i)=>i),mode:Array.from({length:12},(_,i)=>i)}}}});
+  // The output boost is 3x: 2.5 dB below the previous 4x mix.
+  expect(rms).toBeGreaterThan(.135);expect(rms).toBeLessThan(.173);
+  instance.port.onmessage({data:{input:{type:'settings',settings:{chord:Array.from({length:noteCount},(_,i)=>i),mode:Array.from({length:12},(_,i)=>i)}}}});
   instance.port.onmessage({data:{input:{type:'pointer',pitch:60,down:true}}});
+  instance.port.onmessage({data:{input:{type:'pointer',pitch:0,down:true}}});
   for(let frame=48128;frame<96000;frame+=128){
+    if((frame-48128)%4096===0)instance.port.onmessage({data:{input:{type:'pointer',pitch:0,down:true,strike:true}}});
     vi.stubGlobal('currentFrame',frame);expect(instance.process([],output)).toBe(true);
-    for(const channel of output[0])for(const sample of channel){expect(Number.isFinite(sample)).toBe(true);expect(Math.abs(sample)).toBeLessThanOrEqual(1);}
+    for(const channel of output[0])for(const sample of channel){expect(Number.isFinite(sample)).toBe(true);expect(Math.abs(sample)).toBeLessThanOrEqual(.850001);}
   }
+});
+
+it('centers an asymmetric sampled signal without doubling its level',async()=>{
+ const {instance}=await processor(48000);
+ const {Palette}=await import('../../src/audio/palette');
+ const render=vi.spyOn(Palette.prototype,'render').mockImplementation((left,right,start,count)=>{
+  left.fill(.6,start,start+count);right.fill(-.2,start,start+count);
+ });
+ try {
+  const output=[[new Float32Array(128),new Float32Array(128)]];
+  instance.process([],output);vi.stubGlobal('currentFrame',128);instance.process([],output);
+  expect(output[0][0]).toEqual(output[0][1]);
+  for(const sample of output[0][0])expect(sample).toBeCloseTo(.6);
+ }finally{render.mockRestore();}
 });
