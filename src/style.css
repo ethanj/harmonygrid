@@ -9,3 +9,8 @@
 button{cursor:pointer}button:hover{border-color:#8eae9b}select{font:inherit;color:var(--text);background:#1b2920;border:1px solid var(--line);border-radius:4px;padding:4px}#review-bar{gap:12px}#review-bar button,#review-bar select{color:#25362c;border:1px solid #859486;background:#f5f1e6;padding:6px 9px;border-radius:4px;font:inherit}#review-bar .start{background:#273f30;color:#ecf1e8}#review-bar small{margin-left:auto;max-width:270px;font-size:11px}#midi-input,#midi-output{max-width:130px}#grid,#clavier{display:block;width:100%;height:100%;touch-action:none;outline-offset:-3px}#grid{cursor:crosshair}.grid-frame{display:block}.grid-head .midi-controls button{font-size:10px;padding:4px 6px;color:var(--muted)}.grid-head button[aria-pressed=true]{color:var(--mint);background:#233629;border-color:#4a6753}.grid-head .left{gap:10px}.grid-head .midi-controls{gap:4px}.clavier-head button{border:0;padding:0;font-size:10px;color:var(--muted)}#new-document{font-size:12px;padding:6px 9px}.tempo-bottom button{border:0;padding:0;color:var(--muted)}#set-root,#metronome{border:0;padding:0}.clavier.hidden{display:none}.smooth-drag{cursor:none!important}
 
 .app-header .brand{color:inherit;text-decoration:none}.app-header .brand img{object-fit:contain;background:#fff;border-radius:3px;padding:2px}.app-header .brand:focus-visible{outline:2px solid var(--mint);outline-offset:4px}
+/* Keep pointer focus unobtrusive while preserving keyboard navigation feedback. */
+#grid:focus:not(:focus-visible),#clavier:focus:not(:focus-visible){outline:none}
+#grid:focus-visible,#clavier:focus-visible{outline:2px solid var(--mint);outline-offset:-3px}
+
+#grid.pointer-focus:focus,#clavier.pointer-focus:focus{outline:none}
