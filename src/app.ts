@@ -302,6 +302,7 @@ function drawFallback(){
 }
 function resize(){
   geometry={...geometry,width:grid.clientWidth,height:grid.clientHeight,columns:captureUI.active?14:benchmarkColumns,base:gridLow,maximum:settings.maxPitch,rows:captureUI.active?6:benchmarkRows??((innerWidth>=1450?8:7)+(showPiano?0:2))};
+  document.documentElement.style.setProperty('--beat-size',`${Math.min(geometry.width/geometry.columns,geometry.height/geometry.rows)/2}px`);
   const keyboardSize={width:piano.clientWidth||grid.clientWidth,height:piano.clientHeight||95,low:clavierLow,high:clavierLow+36,maximum:settings.maxPitch};
   if(worker)worker.postMessage({kind:'resize',geometry,keyboard:keyboardSize,scale:devicePixelRatio||1});
   else{grid.width=geometry.width*devicePixelRatio;grid.height=geometry.height*devicePixelRatio;piano.width=keyboardSize.width*devicePixelRatio;piano.height=keyboardSize.height*devicePixelRatio;drawFallback();}
@@ -354,7 +355,10 @@ for(const canvas of [grid,piano]){
     if(activePointer===null&&(event.buttons&1)!==0)activePointer=event.pointerId;
     move(event);
   });
-  canvas.addEventListener('pointerleave',()=>{lastCapturePitch=null;});
+  canvas.addEventListener('pointerleave',()=>{
+    lastCapturePitch=null;piano.classList.remove('smooth-drag');
+    if(!captureUI.active)send({type:'release'});
+  });
   canvas.addEventListener('pointercancel',()=>{activePointer=null;lastCapturePitch=null;piano.classList.remove('smooth-drag');if(!capturePointer)send({type:'release'});capturePointer=false;});
 }
 window.addEventListener('pointerup',event=>{
