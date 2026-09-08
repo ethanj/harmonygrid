@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {PitchCapture} from '../../src/performance/capture';
 it('collects exact pitches and folds octaves only when constructing a mode',()=>{

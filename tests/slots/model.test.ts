@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {freshDocument,parseDocument,serializeDocument,selectionOf,changes} from '../../src/document/model';
 import {applyEdits,PatternClipboard,parsePattern,SlotDraft} from '../../src/slots/model';

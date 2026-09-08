@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {describe, expect, it} from 'vitest';
 import {chordAt, gridPitch} from '../../src/performance/harmony';
 const major=[0,2,4,5,7,9,11];

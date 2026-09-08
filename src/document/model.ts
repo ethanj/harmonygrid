@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {isSound,sounds,type Sound} from '../audio/sounds';
 import {defaultOutputs,defaultVariations,validateOutputs,validateVariations,type OutputSettings} from '../performance-settings/model';
 import {defaults,type Settings} from '../performance/model';

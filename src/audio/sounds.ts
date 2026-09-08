@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 export const sounds={organ:'Organ · instant',pluck:'Pluck · instant',piano:'Grand piano',electric:'Tine electric piano',vibes:'Vibraphone',tonewheel:'Tonewheel organ'} as const;
 export type Sound=keyof typeof sounds;
 export const soundPrograms:Partial<Record<Sound,number>>={piano:0,electric:4,vibes:11,tonewheel:16};

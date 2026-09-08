@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {KeyboardControls} from '../../src/input/keyboard';
 import type {Input} from '../../src/performance/model';

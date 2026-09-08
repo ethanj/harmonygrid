@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 export const chords=[
  {name:'Solo',notes:[0]},{name:'Mm triad',notes:[0,3,4,7]},
  {name:'Major',notes:[0,4,7]},{name:'Minor',notes:[0,3,7]},

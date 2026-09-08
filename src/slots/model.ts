@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {serializeDocument,selectionOf,validatePattern,type InstrumentDocument,type Pattern} from '../document/model';
 export type Kind='chord'|'mode';
 export const bank=(kind:Kind)=>kind==='chord'?'chords':'modes';

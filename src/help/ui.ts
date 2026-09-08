@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import keyboardMap from './keyboard-map.svg?raw';
 import {studies,studyDocument} from './examples';
 import type {InstrumentDocument} from '../document/model';

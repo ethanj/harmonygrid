@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {studies,studyDocument} from '../../src/help/examples';
 import {parseDocument,serializeDocument} from '../../src/document/model';

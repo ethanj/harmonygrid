@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {sounds} from '../audio/sounds';
 import {BrowserFiles,type OpenedFile} from './files';
 import {changes,freshDocument,parseDocument,serializeDocument,type InstrumentDocument} from './model';

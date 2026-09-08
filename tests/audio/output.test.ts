@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {OutputLevel} from '../../src/audio/output';
 it('preserves quiet stereo waveforms with exactly one block of delay',()=>{

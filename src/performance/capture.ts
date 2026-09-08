@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {pitchClass, validPitch} from './harmony';
 
 export class PitchCapture {

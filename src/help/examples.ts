@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {freshDocument,validateDocument,type InstrumentDocument} from '../document/model';
 import type {Sound} from '../audio/sounds';
 interface Study {name:string;description:string;chord:number[];mode:number[];axes:[number,number];sound:Sound;}

@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {describe,it,expect} from 'vitest';
 import {PerformanceEngine} from '../../src/performance/engine';
 import type {Input,Settings} from '../../src/performance/model';

@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import type {Action,Input} from '../performance/model';
 export class MidiRouter {
   access:MIDIAccess|null=null;

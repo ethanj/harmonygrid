@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {statusTemplate} from './status-template';
 import type {GridOptions} from './model';
 import './status.css';

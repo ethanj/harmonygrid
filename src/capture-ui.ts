@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {captureSeed} from './performance/capture';
 import type {CaptureKind,CaptureSnapshot,Input,Snapshot} from './performance/model';
 import {pitchClass} from './performance/harmony';

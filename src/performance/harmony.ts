@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 export const pitchClass = (pitch: number): number => ((pitch % 12) + 12) % 12;
 export const validPitch = (pitch: number): boolean => Number.isInteger(pitch) && pitch >= 0 && pitch <= 127;
 

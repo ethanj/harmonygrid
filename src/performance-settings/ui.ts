@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {template} from './template';
 import {validateVariations,validateOutputs,type OutputSettings} from './model';
 import {serializeDocument,type InstrumentDocument} from '../document/model';

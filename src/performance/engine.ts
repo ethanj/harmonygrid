@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {PitchCapture} from './capture';
 import type {CaptureKind} from './model';
 import {chordAt,pitchClass,validPitch} from './harmony';

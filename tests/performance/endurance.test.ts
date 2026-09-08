@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {writeFileSync,mkdirSync} from 'node:fs';
 import {expect,it} from 'vitest';
 import {PerformanceEngine} from '../../src/performance/engine';

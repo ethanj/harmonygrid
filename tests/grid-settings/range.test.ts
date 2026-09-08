@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {defaultGridOptions,validateGridOptions} from '../../src/grid-settings/model';
 import {freshDocument,parseDocument,serializeDocument,changes} from '../../src/document/model';

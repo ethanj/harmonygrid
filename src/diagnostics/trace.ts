@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 /** Rolling bounded evidence keeps the most recent performance instead of freezing after startup. */
 export class Trace {
   private rows:unknown[]=[];

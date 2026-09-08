@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {drawGrid,drawPiano,noteName} from '../render/draw';
 import {validateGridOptions,type GridOptions} from './model';
 export class GridSettingsUI {

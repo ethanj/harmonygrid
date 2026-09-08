@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 export interface GridOptions {horizontal:number;vertical:number;gridLow:number;clavierLow:number;maximum:number;}
 export const defaultGridOptions=():GridOptions=>({horizontal:4,vertical:3,gridLow:24,clavierLow:48,maximum:127});
 export function validateGridOptions(value:GridOptions):GridOptions {

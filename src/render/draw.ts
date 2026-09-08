@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {pitchClass,gridPitch} from '../performance/harmony';
 import type {Snapshot} from '../performance/model';
 import {pianoKeys,type GridGeometry} from './geometry';

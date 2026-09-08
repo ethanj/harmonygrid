@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it,vi} from 'vitest';
 import {DocumentSession} from '../../src/document/session';
 import {freshDocument,serializeDocument,parseDocument} from '../../src/document/model';

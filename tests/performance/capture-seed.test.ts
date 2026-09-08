@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {captureSeed} from '../../src/performance/capture';
 it('preserves intervals and an omitted reference when reopening pitches',()=>{const s=captureSeed([-70,5]);expect(s.reference).toBe(70);expect(s.pitches).toEqual([0,75]);});

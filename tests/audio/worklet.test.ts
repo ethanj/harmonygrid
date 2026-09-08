@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {afterEach,expect,it,vi} from 'vitest';
 import type {Input} from '../../src/performance/model';
 

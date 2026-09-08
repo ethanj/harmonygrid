@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {Voices} from '../../src/audio/voices';
 const energy=(v:Voices,count:number)=>{let sum=0;for(let i=0;i<count;i++)sum+=v.sample()**2;return sum/count;};

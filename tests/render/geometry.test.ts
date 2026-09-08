@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {hitGrid,hitPiano,hitSmooth} from '../../src/render/geometry';
 it('targets square cells with centered letterboxing and rejects the margins',()=>{

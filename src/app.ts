@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {GridStatus} from './grid-settings/status';
 import {HelpUI} from './help/ui';
 import paletteURL from '../assets/soundfonts/harmony-palette.sf2?url';

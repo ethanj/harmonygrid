@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {captureSeed} from '../performance/capture';
 import {selectionOf,type InstrumentDocument} from '../document/model';
 import {SlotDraft,PatternClipboard,type Kind,type Edit} from './model';

@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import type {Control,Input} from '../performance/model';
 import {chords,modes} from '../fixtures/instruments';
 export class KeyboardControls {

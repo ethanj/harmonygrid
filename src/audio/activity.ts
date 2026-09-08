@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 /** Wall-clock watchdog only; never schedules musical events. */
 export class AudioActivity {
   private clock = 0;

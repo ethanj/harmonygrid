@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {freshDocument,parseDocument,serializeDocument,changes,MAX_FILE_BYTES} from '../../src/document/model';
 import {readFile} from '../../src/document/files';

@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 /** Fixed-capacity oscillator bank. One active pitch may have several release tails. */
 export class Voices {
   private readonly pitch: Int16Array;

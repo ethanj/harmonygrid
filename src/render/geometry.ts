@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {gridPitch,pitchClass} from '../performance/harmony';
 export interface GridGeometry {width:number;height:number;columns:number;rows:number;base:number;horizontal:number;vertical:number;maximum?:number;}
 export function hitGrid(x:number,y:number,g:GridGeometry):number|null {

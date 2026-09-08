@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {drawGrid,drawPiano} from './draw';
 import type {GridGeometry} from './geometry';
 import type {Snapshot} from '../performance/model';

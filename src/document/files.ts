@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {MAX_FILE_BYTES} from './model';
 export interface FileHandle {
   name:string;

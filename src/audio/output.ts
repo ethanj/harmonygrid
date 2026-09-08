@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 /** Stereo-linked limiter with one render block of lookahead. */
 export class OutputLevel {
   private gain=1;

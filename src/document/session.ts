@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {changes,parseDocument,serializeDocument,type InstrumentDocument} from './model';
 import {readFile,type FileHandle,type OpenedFile} from './files';
 export class DocumentSession {

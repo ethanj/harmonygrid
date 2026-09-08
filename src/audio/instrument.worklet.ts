@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {OutputLevel} from './output';
 import {Palette} from './palette';
 import type {Sound} from './sounds';

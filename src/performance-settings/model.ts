@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 export interface Variations {
   multiMidi:boolean;repeatDrone:'off'|'current'|'all';sustainRetrigger:boolean;retainAcrossScale:boolean;
   shortInput:'fullTick'|'ignore';sustainLimit:boolean;refreshSustainAge:boolean;

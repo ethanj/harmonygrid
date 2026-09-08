@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {MidiRouter} from '../../src/input/midi';
 import {PerformanceEngine} from '../../src/performance/engine';

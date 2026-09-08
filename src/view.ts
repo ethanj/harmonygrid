@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import originalIcon from '../website/original-icon.png';
 import {sounds} from './audio/sounds';
 import {chords,modes} from './fixtures/instruments';

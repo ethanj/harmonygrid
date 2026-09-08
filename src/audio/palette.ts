@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {SoundBankLoader,SpessaSynthProcessor} from 'spessasynth_core';
 import {soundPrograms,type Sound} from './sounds';
 /** Prepared once before the performance is connected. No bank parsing during playing. */

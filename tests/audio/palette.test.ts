@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {readFileSync} from 'node:fs';
 import {expect,it} from 'vitest';
 import {Palette} from '../../src/audio/palette';

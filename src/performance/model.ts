@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {defaultVariations,type Variations} from '../performance-settings/model';
 export type Control = 'sustain' | 'hold' | 'drone' | 'repeat';
 export type CaptureKind='chord'|'mode';

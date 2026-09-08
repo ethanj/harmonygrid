@@ -1,5 +1,6 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {spawnSync} from 'node:child_process';
-import {mkdir,cp} from 'node:fs/promises';
+import {mkdir,cp,readdir,readFile,writeFile} from 'node:fs/promises';
 const result=spawnSync('npm',['run','build','--','--base=/play/','--outDir=dist/site/play'],{stdio:'inherit'});
 if(result.status)process.exit(result.status);
 await mkdir('dist/site/play',{recursive:true});
@@ -15,3 +16,17 @@ await cp('assets/soundfonts/SPESSASYNTH-LICENSE.txt','dist/site/licenses/SpessaS
 await cp('LICENSE','dist/site/licenses/HarmonyGrid.txt');
 
 await cp('website/harmonygrid.pdf','dist/site/harmonygrid.pdf');
+
+// Preserve the application copyright in minified publish assets, alongside
+// any third-party license notices already emitted by the bundler.
+async function addScriptHeaders(directory){
+  for(const entry of await readdir(directory,{withFileTypes:true})){
+    const path=`${directory}/${entry.name}`;
+    if(entry.isDirectory())await addScriptHeaders(path);
+    else if(entry.name.endsWith('.js')){
+      const source=await readFile(path,'utf8'),header='/*! Copyright (c) 2026 Ethan Joffe */';
+      if(!source.startsWith(header))await writeFile(path,`${header}\n${source}`);
+    }
+  }
+}
+await addScriptHeaders('dist/site/play');

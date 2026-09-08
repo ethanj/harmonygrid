@@ -1,3 +1,4 @@
+/*! Copyright (c) 2026 Ethan Joffe */
 import {expect,it} from 'vitest';
 import {AudioActivity} from '../../src/audio/activity';
 it('distinguishes a stopped device clock from a stopped processor',()=>{
