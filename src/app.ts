@@ -347,7 +347,7 @@ function move(event:PointerEvent,press=false){
   piano.classList.toggle('smooth-drag',hit.clavier&&smooth&&activePointer!==null);
 }
 for(const canvas of [grid,piano]){
-  canvas.addEventListener('pointerdown',event=>{if(event.button!==0||pointerReleaseRequired)return;event.preventDefault();capturePointer=captureUI.active;activePointer=event.pointerId;canvas.setPointerCapture(event.pointerId);move(event,true);});
+  canvas.addEventListener('pointerdown',event=>{if(event.button!==0||pointerReleaseRequired)return;event.preventDefault();canvas.focus({preventScroll:true});capturePointer=captureUI.active;activePointer=event.pointerId;canvas.setPointerCapture(event.pointerId);move(event,true);});
   canvas.addEventListener('pointermove',event=>{
     if(activePointer!==null&&(event.buttons&1)===0){activePointer=null;trace.record({kind:'pointer-release-resynchronized',at:performance.now()});}
     if(activePointer===null&&(event.buttons&1)!==0)activePointer=event.pointerId;

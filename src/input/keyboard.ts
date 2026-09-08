@@ -30,7 +30,9 @@ export class KeyboardControls {
       if(event.target instanceof HTMLSelectElement||event.target instanceof HTMLInputElement)return;
       const managed='0123456789 fgydtqweras'.includes(key)||key==='tab'||key==='escape';
       if(!managed)return;
-      event.preventDefault();if(event.repeat||this.pressed.has(key))return;
+      // A fresh keydown is evidence of a new press even if its previous keyup
+      // was lost outside the window. Repeats alone must not retrigger controls.
+      event.preventDefault();if(event.repeat)return;
       this.pressed.add(key);
       if(/^\d$/.test(key)){
         const slot=(Number(key)+9)%10;
